@@ -1,0 +1,200 @@
+{
+  "store_json": [
+  {
+    "store_mdid":"0xDE5B499FB4CA0AD1656BD410F189818C",	
+    "store_name": "Flipkart",
+    "store_description": "Flipkart",
+    "Store_Details": [
+    {
+      "storecampaign_guid": "b97ccbc2-0852-4fab-8909-44777e198371",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Fashion",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "ccf52a81-b636-443a-9d76-e0aaffa8555a",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Fashion",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "eeed8b44-3a19-4a26-80b4-1ab0da70dd0a",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Fashion",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "84428471-ace0-4374-a769-a5e64276dc2d",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Fashion",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "664fdf5f-4f2a-4ab2-bff2-ab9ee6d10301",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Fashion",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "31c9f2b0-68a6-44bf-a953-5f6a9acbbf11",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Fashion",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Fashion",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "98c71cd7-9b93-4e14-b2b5-b4fc58d3b4ab",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Electronics",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "7fa5e987-b1b3-4405-a00f-1fe6c6b20364",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Electronics",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "42ca5054-ea38-4e0e-814f-fb489e2dd708",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Electronics",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "ee0e03af-93bc-402f-bcf1-d7a178333e98",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Electronics",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "c18b1faa-a5e4-4bd8-83a2-2608b3136d0b",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Electronics",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "1a332f59-155e-4c25-a44a-eaf0560e666e",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Electronics",
+      "offer_title": " + 8% Rewards"
+    }
+    ]
+  },
+  {
+  "store_mdid":"0xDE5B499FB4CA0AD1656BD410F189818C",	
+    "store_name": "Boat",
+    "store_description": "Boat",
+    "Store_Details": [
+    {
+      "storecampaign_guid": "b97ccbc2-0852-4fab-8909-44777e198371",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Fashion",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "ccf52a81-b636-443a-9d76-e0aaffa8555a",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Fashion",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "eeed8b44-3a19-4a26-80b4-1ab0da70dd0a",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Fashion",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "84428471-ace0-4374-a769-a5e64276dc2d",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Fashion",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "664fdf5f-4f2a-4ab2-bff2-ab9ee6d10301",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Fashion",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "31c9f2b0-68a6-44bf-a953-5f6a9acbbf11",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Fashion",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Fashion",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "98c71cd7-9b93-4e14-b2b5-b4fc58d3b4ab",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Electronics",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "7fa5e987-b1b3-4405-a00f-1fe6c6b20364",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Electronics",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "42ca5054-ea38-4e0e-814f-fb489e2dd708",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Electronics",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "ee0e03af-93bc-402f-bcf1-d7a178333e98",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Electronics",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "c18b1faa-a5e4-4bd8-83a2-2608b3136d0b",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Electronics",
+      "offer_title": " + 8% Rewards"
+    },
+    {
+      "storecampaign_guid": "1a332f59-155e-4c25-a44a-eaf0560e666e",
+      "image_url": "https://s3.ap-south-1.amazonaws.com/www.dev.cazhon.com/app/assets/images/store/",
+      "image_name": "flipkart_small.png",
+      "storetype": "Electronics",
+      "offer_title": " + 8% Rewards"
+    }
+    ]
+  }
+  ]
+}

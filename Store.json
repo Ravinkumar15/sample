@@ -17,14 +17,14 @@
       "offer_expiry": "Offer expires on July 05, 2022",
       "show_details": [
         {
-          key:"Shop Online/In-Store",value: "Online",
-          key:"Cash Back",value: "3 - 5 days",
-          key:"Auto Cash",value: "Yes"
+           "Shop Online/In-Store": "Online",
+         "Cash Back": "3 - 5 days",
+         "Auto Cash": "Yes"
         }],
         "show_details_faq": [
         {
-          key:"How to redeem this offer ?",value: "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters.",
-           key:"How to withdraw cash ?",value: "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
+          "How to redeem this offer ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters.",
+         "How to withdraw cash ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
         }
         
       ]

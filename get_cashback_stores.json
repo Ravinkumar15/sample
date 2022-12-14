@@ -1,0 +1,101 @@
+{
+    "topcashback_stores":
+    [
+    {
+        "image_name":"flipkartwhitelogo.png",
+        "image_url":"https://ravinkumar15.github.io/sample/assets/images/images/white_logo/",
+        "store_mdid":"",
+        "storecampaign_guid":"",
+        "cash_back_desc":"Up to 8% off",
+        "color_code":"#107BD4"
+    },
+    {
+        "image_name":"amazonwhitelogo.png",
+        "image_url":"https://ravinkumar15.github.io/sample/assets/images/images/white_logo/",
+        "store_mdid":"",
+        "storecampaign_guid":"",
+        "cash_back_desc":"Up to 9% off",
+        "color_code":"#000000"
+    },
+    {
+        "image_name":"meeshowhitelogo.png",
+        "image_url":"https://ravinkumar15.github.io/sample/assets/images/images/white_logo/",
+        "store_mdid":"",
+        "storecampaign_guid":"",
+        "cash_back_desc":"Up to 11% off",
+        "color_code":"#99136C"
+    },
+    {
+        "image_name":"myntrawhitelogo.png",
+        "image_url":"https://ravinkumar15.github.io/sample/assets/images/images/white_logo/",
+        "store_mdid":"",
+        "storecampaign_guid":"",
+        "cash_back_desc":"Up to 6% off",
+        "color_code":"#7C210B"
+    },
+    {
+        "image_name":"Dominoswhitelogo.png",
+        "image_url":"https://ravinkumar15.github.io/sample/assets/images/images/white_logo/",
+        "store_mdid":"",
+        "storecampaign_guid":"",
+        "cash_back_desc":"Up to ₹22 off",
+        "color_code":"#006491"
+    },
+    {
+        "image_name":"beardowhitelogo.png",
+        "image_url":"https://ravinkumar15.github.io/sample/assets/images/images/white_logo/",
+        "store_mdid":"",
+        "storecampaign_guid":"",
+        "cash_back_desc":"Up to 14% off",
+        "color_code":"#000000"
+    },
+    {
+        "image_name":"snackiblewhitelogo.png",
+        "image_url":"https://ravinkumar15.github.io/sample/assets/images/images/white_logo/",
+        "store_mdid":"",
+        "storecampaign_guid":"",
+        "cash_back_desc":"Up to 11% off",
+        "color_code":"#06436E"
+    },
+    {
+        "image_name":"swiggywhitelogo.png",
+        "image_url":"https://ravinkumar15.github.io/sample/assets/images/images/white_logo/",
+        "store_mdid":"",
+        "storecampaign_guid":"",
+        "cash_back_desc":"Up to ₹22 off",
+        "color_code":"#D16811"
+    },
+    {
+        "image_name":"ajiowhitelogo.png",
+        "image_url":"https://ravinkumar15.github.io/sample/assets/images/images/white_logo/",
+        "store_mdid":"",
+        "storecampaign_guid":"",
+        "cash_back_desc":"Up to 8% off",
+        "color_code":"#2E4255"
+    },
+    {
+        "image_name":"Lakmewhitelogo.png",
+        "image_url":"https://ravinkumar15.github.io/sample/assets/images/images/white_logo/",
+        "store_mdid":"",
+        "storecampaign_guid":"",
+        "cash_back_desc":"Up to 6% off",
+        "color_code":"#000000"
+    },
+    {
+        "image_name":"pizzahutwhitelogo.png",
+        "image_url":"https://ravinkumar15.github.io/sample/assets/images/images/white_logo/",
+        "store_mdid":"",
+        "storecampaign_guid":"",
+        "cash_back_desc":"Up to ₹22 off",
+        "color_code":"#E61B23"
+    },
+    {
+        "image_name":"biotiquewhitelogo.png",
+        "image_url":"https://ravinkumar15.github.io/sample/assets/images/images/white_logo/",
+        "store_mdid":"",
+        "storecampaign_guid":"",
+        "cash_back_desc":"Up to 8% off",
+        "color_code":"#047541"
+    }
+    ]
+}

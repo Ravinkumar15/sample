@@ -1,6 +1,6 @@
 {"food_deals":[{
-        "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
-        "image_name":"dominos_small.png",
+        "image_url":"https://ravinkumar15.github.io/sample/assets/images/white_logo/",
+        "image_name":"Dominoswhitelogo.png",
         "category_desc":"Instant germ kill expert",
         "cash_back_desc":"Up to 10% off",
          "store_mdid":"",
@@ -9,8 +9,8 @@
          "product_imge_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/"
     },
     {
-        "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
-        "image_name":"swigycolor_small.png",
+        "image_url":"https://ravinkumar15.github.io/sample/assets/images/white_logo/",
+        "image_name":"swiggywhitelogo.png",
         "category_desc":"Instant germ kill expert",
         "cash_back_desc":"Up to 20% off",
          "store_mdid":"",

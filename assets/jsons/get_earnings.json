@@ -1,0 +1,196 @@
+{
+    "referral_amount":"₹500.00",
+    "lifetime_cashback":"₹1060.00",
+    "cashback_available":"₹80.00",
+    "pending_cashback":"₹30.00",
+    "earnings_history":[
+        {
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/earnings/",
+            "image_name":"earnings_icon_.png",
+            "store_name":"Amazon",
+            "cashback_amount":"₹100.00",
+            "status":"Approved",
+            "earnings_details":[
+                            {
+                            "Purchased on ":": 01-Jan-2022",
+                            "Earned on":": 05-Jan-2022"
+                            }
+                    ],
+            "show_details":[
+                {
+                    "Store":"Amazon",
+                    "Spent":"₹2500.00",
+                    "Cashback":"₹100.25",
+                    "Status":"Approved",
+                    "Trip id ":"1234592",
+                    "Purchased on":"01/Jan/2022",
+                    "Earned on":"02/Jan/2022",
+                    "Type":"Sale",
+                    "Redeemable":"Yes",
+                    "Claim Submitted":"Yes"
+                },
+                {
+                    "Issue reported :":"01/01/2022",
+                    "Issue resolved :":"02/01/2022",
+                    "Resolution :":"Cashback Approved"
+                    
+                }
+            ]
+        },   
+        {
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/earnings/",
+            "image_name":"earnings_icon_.png",
+            "store_name":"Myntra",
+            "cashback_amount":"₹350.00",
+            "status":"Pending",
+            "earnings_details":[
+                {
+                "Purchased on ":": 01-Jan-2022",
+                "Earned on":": 05-Jan-2022"
+                }
+            ],
+            "show_details":[        {
+                "Store":"Amazon",
+                "Spent":"₹2500.00",
+                "Cashback":"₹100.25",
+                "Status":"Approved",
+                "Trip id ":"1234592",
+                "Purchased on":"01/Jan/2022",
+                "Earned on":"02/Jan/2022",
+                "Type":"Sale",
+                "Redeemable":"Yes",
+                "Claim Submitted":"Yes"
+            },
+            {
+                "Issue reported :":"01/01/2022",
+                "Issue resolved :":"02/01/2022",
+                "Resolution :":"Cashback Approved"
+                
+            }]
+        },
+        {
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/earnings/",
+            "image_name":"Refer_icon.png",
+            "store_name":"Referral bonus",
+            "cashback_amount":"₹30.00",
+            "status":"Approved",
+            "earnings_details":[
+                {
+                "Purchased on ":": 01-Jan-2022",
+                "Earned on":": 05-Jan-2022"
+                }
+            ],
+            "show_details":[        {
+                "Store":"Amazon",
+                "Spent":"₹2500.00",
+                "Cashback":"₹100.25",
+                "Status":"Approved",
+                "Trip id ":"1234592",
+                "Purchased on":"01/Jan/2022",
+                "Earned on":"02/Jan/2022",
+                "Type":"Sale",
+                "Redeemable":"Yes",
+                "Claim Submitted":"Yes"
+            },
+            {
+                "Issue reported :":"01/01/2022",
+                "Issue resolved :":"02/01/2022",
+                "Resolution :":"Cashback Approved"
+                
+            }]
+        },
+        {
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/earnings/",
+            "image_name":"earnings_icon_.png",
+            "store_name":"PS-1 movie giveaway",
+            "cashback_amount":"₹1000.00",
+            "status":"Approved",
+            "earnings_details":[
+                {
+                "Purchased on ":": 01-Jan-2022",
+                "Earned on":": 05-Jan-2022"
+                }
+            ],
+            "show_details":[        {
+                "Store":"Amazon",
+                "Spent":"₹2500.00",
+                "Cashback":"₹100.25",
+                "Status":"Approved",
+                "Trip id ":"1234592",
+                "Purchased on":"01/Jan/2022",
+                "Earned on":"02/Jan/2022",
+                "Type":"Sale",
+                "Redeemable":"Yes",
+                "Claim Submitted":"Yes"
+            },
+            {
+                "Issue reported :":"01/01/2022",
+                "Issue resolved :":"02/01/2022",
+                "Resolution :":"Cashback Approved"
+                
+            }]
+        },
+        {
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/earnings/",
+            "image_name":"earnings_icon_.png",
+            "store_name":"meesho",
+            "cashback_amount":"₹346.00",
+            "status":"Cancelled",
+            "earnings_details":[
+                {
+                "Purchased on ":": 01-Jan-2022",
+                "Earned on":": 05-Jan-2022"
+                }
+            ],
+            "show_details":[        {
+                "Store":"Amazon",
+                "Spent":"₹2500.00",
+                "Cashback":"₹100.25",
+                "Status":"Approved",
+                "Trip id ":"1234592",
+                "Purchased on":"01/Jan/2022",
+                "Earned on":"02/Jan/2022",
+                "Type":"Sale",
+                "Redeemable":"Yes",
+                "Claim Submitted":"Yes"
+            },
+            {
+                "Issue reported :":"01/01/2022",
+                "Issue resolved :":"02/01/2022",
+                "Resolution :":"Cashback Approved"
+                
+            }]
+        },
+        {
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/earnings/",
+            "image_name":"wecome_icon.png",
+            "store_name":"Welcome bonus",
+            "cashback_amount":"₹25",
+            "status":"Approved",
+            "earnings_details":[
+                {
+                "Purchased on ":": 01-Jan-2022",
+                "Earned on":": 05-Jan-2022"
+                }
+            ],
+            "show_details":[        {
+                "Store":"Amazon",
+                "Spent":"₹2500.00",
+                "Cashback":"₹100.25",
+                "Status":"Approved",
+                "Trip id ":"1234592",
+                "Purchased on":"01/Jan/2022",
+                "Earned on":"02/Jan/2022",
+                "Type":"Sale",
+                "Redeemable":"Yes",
+                "Claim Submitted":"Yes"
+            },
+            {
+                "Issue reported :":"01/01/2022",
+                "Issue resolved :":"02/01/2022",
+                "Resolution :":"Cashback Approved"
+                
+            }]
+        }
+     ]
+}

@@ -1,0 +1,62 @@
+{"deals_ofweek":[ {
+    "store_mdid":"",
+    "category_type":"",
+    "category_desc":"Small home appliance",
+    "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
+    "image_name":"flipkart_small.png",
+    "store_type":"kitchen",
+    "cash_back_desc":"23%",
+    "product_image_name":"homeappliances.png",
+    "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+    "usertype":"New & existing user"
+    },
+    {
+        "store_mdid":"",
+        "category_type":"",
+        "category_desc":"Get your favourite food",
+        "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
+        "image_name":"swigycolor_small.png",
+        "store_type":"food",
+        "cash_back_desc":"4%",
+        "product_image_name":"categoriesfood.png",
+        "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+        "usertype":"New & existing user"
+        },
+        {
+            "store_mdid":"",
+            "category_type":"",
+            "category_desc":"Fashion & lifestyle categories",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
+            "image_name":"ajio_small.png",
+            "store_type":"fashion",
+            "cash_back_desc":"11%",
+            "product_image_name":"Fashiongirl.png",
+            "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+            "usertype":"New user"
+            },
+            {
+                "store_mdid":"",
+                "category_type":"",
+                "category_desc":"Delightful dominos pizzas",
+                "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
+                "image_name":"dominos_small.png",
+                "store_type":"food",
+                "cash_back_desc":"22%",
+                "product_image_name":"Pizza.png",
+                "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+                "usertype":"New & existing user"
+                },
+                {
+                    "store_mdid":"",
+                    "category_type":"",
+                    "category_desc":"On successful sale",
+                    "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
+                    "image_name":"myntra_small.png",
+                    "store_type":"fashion",
+                    "cash_back_desc":"6%",
+                    "product_image_name":"Fashionboys.png",
+                    "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+                    "usertype":"New user"
+                    }
+    ]
+    }

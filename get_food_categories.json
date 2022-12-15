@@ -1,0 +1,73 @@
+{
+    "background_image_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/",
+    "background_image_name":"homefoodbanner.png",
+    "max_cashback_offer":" Up to 60% off",
+    "max_cashback_desc":"order now to enjoy these benefits",
+    "food_categories":[
+        {
+            "category_desc":"50% off",
+            "store_mdid":"",
+            "store_name":"Dominos",
+            "store_mdname":"",
+            "image_url":"",
+            "image_name":"dominos",
+            "store_type":"",  
+            "cash_back_desc":"Up to ₹100",
+            "cash_back_amount":"₹ 22 Cashback",
+            "product_imge_name":"food_image1.jpg",
+            "product_imge_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/"
+        },
+        {
+            "category_desc":"70% off",
+            "store_mdid":"",
+            "store_name":"Swiggy",
+            "store_mdname":"",
+            "image_url":"",
+            "image_name":"",
+            "store_type":"",  
+            "cash_back_desc":"Up to ₹75",
+            "cash_back_amount":"",
+            "product_imge_name":"food_image5.png",
+            "product_imge_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/"
+        },
+        {
+            "category_desc":"65% off",
+            "store_mdid":"",
+            "store_name":"Licious",
+            "store_mdname":"",
+            "image_url":"",
+            "image_name":"",
+            "store_type":"",  
+            "cash_back_desc":"Up to ₹136",
+            "cash_back_amount":"",
+            "product_imge_name":"food_image4.png",
+            "product_imge_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/"
+        },
+        {
+            "category_desc":"30% off",
+            "store_mdid":"",
+            "store_name":"Snackible",
+            "store_mdname":"",
+            "image_url":"",
+            "image_name":"",
+            "store_type":"",  
+            "cash_back_desc":"Up to ₹32",
+            "cash_back_amount":"",
+            "product_imge_name":"food_image3.png",
+            "product_imge_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/"
+        },
+        {
+            "category_desc":"55% off",
+            "store_mdid":"",
+            "store_name":"Fresh to home",
+            "store_mdname":"",
+            "image_url":"",
+            "image_name":"",
+            "store_type":"",  
+            "cash_back_desc":"Up to ₹76",
+            "cash_back_amount":"",
+            "product_imge_name":"food_image2.png",
+            "product_imge_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "get_allbanks":[
+{
+    "popular_banks":[
+        {
+            "bank_name":"SBI Bank",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"State_Bank_of_India.png"
+        },
+        {
+            "bank_name":"BOB Bank",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"Bank_of_Baroda.png"
+        },
+        {
+            "bank_name":"Union Bank",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"Union_Bank_of_India_(1).png"
+        },
+        {
+            "bank_name":"Axis Bank",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"Axis_Bank.png"
+        },
+        {
+            "bank_name":"KVB Bank",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"kvb.png"
+        },
+        {
+            "bank_name":"HDFC Bank",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"HDFC_Bank.png"
+        },
+        {
+            "bank_name":"Kotak Bank",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"Kotak_Mahindra_Bank.png"
+        },
+        {
+            "bank_name":"ICICI Bank",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"icici1.png"
+        }
+
+    ]
+
+},
+{
+    "all_banks":[
+        {
+            "bank_name":"State Bank Of India",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"State_Bank_of_India.png"
+        },
+        {
+            "bank_name":"Bank Of Baroda",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"Bank_of_Baroda.png"
+        },
+        {
+            "bank_name":"Union Bank Of India",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"Union_Bank_of_India_(1).png"
+        },
+        {
+            "bank_name":"Axis Bank",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"Axis_Bank.png"
+        },
+        {
+            "bank_name":"KVB Bank",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"kvb.png"
+        },
+        {
+            "bank_name":"HDFC Bank",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"HDFC_Bank.png"
+        },
+        {
+            "bank_name":"Kotak Mahindra Bank",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"Kotak_Mahindra_Bank.png"
+        },
+        {
+            "bank_name":"ICICI Bank",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"icici1.png"
+        },
+        {
+            "bank_name":"Punjab National Bank",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"PNB_Bank.png"
+        },
+        {
+            "bank_name":"Indian Bank",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"Indian_Bank.png"
+        },
+        {
+            "bank_name":"Canara Bank",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"Canara_Bank.png"
+        },
+        {
+            "bank_name":"Bank Of India",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/banks/",
+            "image_name":"Bank_of_India.png"
+        }
+    ]
+
+},
+
+    ]
+}

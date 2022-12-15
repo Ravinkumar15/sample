@@ -1,0 +1,63 @@
+{
+    "travel_categories":[{
+    "store_mdid":"",
+    "category_type":"",
+    "category_desc":"Domestic flight booking",
+    "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
+    "image_name":"airasia_small.png",
+    "store_type":"travel",
+    "cash_back_desc":"₹117",
+    "product_image_name":"flight1.png",
+    "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/tavel_categories/",
+    "usertype":"New & existing user"
+    },
+    {
+        "store_mdid":"",
+        "category_type":"",
+        "category_desc":"Domestic flight for old user",
+        "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
+        "image_name":"makemytrip_small.png",
+        "store_type":"travel",
+        "cash_back_desc":"₹105",
+        "product_image_name":"bus.jpg",
+        "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/tavel_categories/",
+        "usertype":"New & existing user"
+        },
+        {
+            "store_mdid":"",
+            "category_type":"",
+            "category_desc":"First ride",
+            "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
+            "image_name":"rapidobiketaxi_small.png",
+            "store_type":"travel",
+            "cash_back_desc":"9%",
+            "product_image_name":"scooter.png",
+            "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/tavel_categories/",
+            "usertype":"New user"
+            },
+            {
+                "store_mdid":"",
+                "category_type":"",
+                "category_desc":"Flight booking",
+                "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
+                "image_name":"goibibo_small.png",
+                "store_type":"travel",
+                "cash_back_desc":"77%",
+                "product_image_name":"flight1.png",
+                "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/tavel_categories/",
+                "usertype":"New & existing user"
+                },
+                {
+                    "store_mdid":"",
+                    "category_type":"",
+                    "category_desc":"Travelling is now made simple with blinctrip",
+                    "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
+                    "image_name":"blinctrip_small.png",
+                    "store_type":"travel",
+                    "cash_back_desc":"₹183",
+                    "product_image_name":"flight.png",
+                    "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/tavel_categories/",
+                    "usertype":"New user"
+                    }
+    ]
+    }

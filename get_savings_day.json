@@ -1,0 +1,30 @@
+{    "banners":[
+    {
+        "store_mdid":" ",
+        "storecampaign_guid":" ",
+        "image_url": "https://ravinkumar15.github.io/sample/assets/images/savings_day/",
+        "image_name":"beautybanner2.png",
+        "store_mdname":" ",
+        "dealtype":"campaign"
+    },
+    {
+        "store_mdid":" ",
+        "storecampaign_guid":" ",
+        "image_url": "https://ravinkumar15.github.io/sample/assets/images/savings_day/",
+        "image_name":"beautybanner.png",
+        "store_mdname":" ",
+        "dealtype":"campaign"
+    },
+    {
+        "store_mdid":" ",
+        "storecampaign_guid":" ",
+        "image_url": "https://ravinkumar15.github.io/sample/assets/images/savings_day/",
+        "image_name":"healthbanner.png",
+        "store_mdname":" ",
+        "dealtype":"campaign"
+    }
+
+]
+
+    
+}

@@ -6,8 +6,8 @@
     "image_name":"amazon_small.png",
     "store_type":"elctronics",
     "cash_back_desc":"7%",
-    "product_image_name":"ElectronicProduct.png",
     "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+    "product_image_name":"ElectronicProduct.png",
     "usertype":"New & existing user"
     },
     {
@@ -17,8 +17,8 @@
         "image_name":"firstcry_small.png",
         "store_type":"beauty",
         "cash_back_desc":"22%",
-        "product_image_name":"babyproduct.png",
         "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+        "product_image_name":"babyproduct.png",
         "usertype":"New & existing user"
         },
         {
@@ -28,8 +28,8 @@
             "image_name":"Snackible_small.png",
             "store_type":"food",
             "cash_back_desc":"11%",
-            "product_image_name":"snacks.png",
             "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+            "product_image_name":"snacks.png",
             "usertype":"New user"
             },
             {
@@ -39,8 +39,8 @@
                 "image_name":"Meesho_small.png",
                 "store_type":"fashion",
                 "cash_back_desc":"68%",
-                "product_image_name":"fashion.png",
                 "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+                "product_image_name":"fashion.png",
                 "usertype":"New & existing user"
                 },
                 {
@@ -50,9 +50,9 @@
                     "image_name":"myntra_small.png",
                     "store_type":"fashion",
                     "cash_back_desc":"34%",
-                    "product_image_name":"fashiongirls.png",
                     "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
-                    "usertype":"New user"
+                    "product_image_name":"fashiongirls.png",
+					"usertype":"New user"
                     }
     ]
     }

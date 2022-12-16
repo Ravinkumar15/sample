@@ -5,9 +5,9 @@
         "cash_back_desc":"Up to 10% off",
          "store_mdid":"",
          "storecampaign_guid":"",
-         "product_imge_name":"pizza.jpg",
-         "product_imge_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/"
-    },
+         "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/",
+         "product_image_name":"pizza.jpg"
+         },
     {
         "image_url":"https://ravinkumar15.github.io/sample/assets/images/white_logo/",
         "image_name":"swiggywhitelogo.png",
@@ -15,8 +15,8 @@
         "cash_back_desc":"Up to 20% off",
          "store_mdid":"",
          "storecampaign_guid":"",
-         "product_imge_name":"chicken-biryani.jpg",
-         "product_imge_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/"
+         "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/",
+         "product_image_name":"chicken-biryani.jpg"
     }
  ]
 }

@@ -14,8 +14,8 @@
             "store_type":"",  
             "cash_back_desc":"Up to ₹100",
             "cash_back_amount":"₹ 22 Cashback",
-            "product_imge_name":"food_image1.jpg",
-            "product_imge_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/"
+            "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/",
+            "product_image_name":"food_image1.jpg"
         },
         {
             "category_desc":"70% off",
@@ -27,8 +27,8 @@
             "store_type":"",  
             "cash_back_desc":"Up to ₹75",
             "cash_back_amount":"",
-            "product_imge_name":"food_image5.png",
-            "product_imge_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/"
+            "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/",
+            "product_image_name":"food_image5.png"
         },
         {
             "category_desc":"65% off",
@@ -40,8 +40,9 @@
             "store_type":"",  
             "cash_back_desc":"Up to ₹136",
             "cash_back_amount":"",
-            "product_imge_name":"food_image4.png",
-            "product_imge_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/"
+            "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/",
+            "product_image_name":"food_image4.png"
+           
         },
         {
             "category_desc":"30% off",
@@ -53,8 +54,9 @@
             "store_type":"",  
             "cash_back_desc":"Up to ₹32",
             "cash_back_amount":"",
-            "product_imge_name":"food_image3.png",
-            "product_imge_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/"
+            "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/",
+            "product_image_name":"food_image3.png"
+            
         },
         {
             "category_desc":"55% off",
@@ -66,8 +68,9 @@
             "store_type":"",  
             "cash_back_desc":"Up to ₹76",
             "cash_back_amount":"",
-            "product_imge_name":"food_image2.png",
-            "product_imge_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/"
+            "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/food_categories/",
+            "product_image_name":"food_image2.png"
+            
         }
     ]
 }

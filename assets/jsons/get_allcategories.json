@@ -1,0 +1,228 @@
+{
+	"categories": [
+		{
+			"stores": [
+				{
+					"image_url": "",
+					"image_name": "amazon_small.png",
+					"cash_back_desc": "9%",
+					"show_details": [
+						{
+						"cash_back_amount": "9% Cashback",
+							"cash_back_long_desc": "Congratulations, you have reached your cashback destination",
+							"bannerimage_url": "",
+							"bannerimage_name": "",
+							"shop_via": [
+							{
+							"Amazon Website":"flat 3.5% CD cashback",
+							"Amazon app":"flat 3.0% CD cashback"
+							}
+							],
+							"reward_rates": [
+							{
+							"4%":"Apparel & accessories/luggage & bags / watches/shoes",
+							"5%":"Automotive / lawn & garden / sports",
+							"7%":"Grocery / pantry",
+							"6%":"Large appliances / movies / music /software / video games"
+							}],
+							"offer_terms": [
+							{
+							"Shop Online/In-Store": "Online",
+					"Cash Back": "3 - 5 days",
+					"Auto Cash": "Yes",
+					"Auto Cash1": "No"
+					}]
+						}
+					]
+				},
+				{
+					"image_url": "",
+					"image_name": "Meesho_small.png",
+					"cash_back_desc": "11%",
+					"show_details": [
+						{
+							"cash_back_long_desc": "11% Cashback",
+							"bannerimage_url": "",
+							"bannerimage_name": "",
+							"shop_via": [
+							{
+							"Amazon Website":"flat 3.5% CD cashback",
+							"Amazon app":"flat 3.0% CD cashback"
+							}],
+							"reward_rates": [
+							{
+							"4%":"Apparel & accessories/luggage & bags / watches/shoes",
+							"5%":"Automotive / lawn & garden / sports",
+							"7%":"Grocery / pantry",
+							"6%":"Large appliances / movies / music /software / video games"
+							}],
+							"offer_terms": [
+							{
+							"Shop Online/In-Store": "Online",
+					"Cash Back": "3 - 5 days",
+					"Auto Cash": "Yes",
+					"Auto Cash1": "No"
+					}
+					]
+						}
+					]
+				},
+				{
+					"store_name": "",
+					"store_mdname": "",
+					"image_url": "",
+					"image_name": "flipkart_small.png",
+					"cash_back_desc": "8%",
+					"show_details": [
+						{
+							"cash_back_long_desc": "8% Cashback",
+							"bannerimage_url": "",
+							"bannerimage_name": "",
+							"shop_via": [
+							{
+							"Amazon Website":"flat 3.5% CD cashback",
+							"Amazon app":"flat 3.0% CD cashback"
+							}],
+							"reward_rates": [
+							{
+							"4%":"Apparel & accessories/luggage & bags / watches/shoes",
+							"5%":"Automotive / lawn & garden / sports",
+							"7%":"Grocery / pantry",
+							"6%":"Large appliances / movies / music /software / video games"
+							}],
+							"offer_terms": [
+							{
+							"Shop Online/In-Store": "Online",
+					"Cash Back": "3 - 5 days",
+					"Auto Cash": "Yes",
+					"Auto Cash1": "No"
+					}
+					]
+						}
+					]
+				},
+				{
+					"image_url": "",
+					"image_name": "myntra_small.png",
+					"cash_back_desc": "6%",
+					"show_details": [
+						{
+							"cash_back_long_desc": "6% Cashback",
+							"bannerimage_url": "",
+							"bannerimage_name": "",
+							"shop_via": [
+							{
+							"Amazon Website":"flat 3.5% CD cashback",
+							"Amazon app":"flat 3.0% CD cashback"
+							}],
+							"reward_rates": [
+							{
+							"4%":"Apparel & accessories/luggage & bags / watches/shoes",
+							"5%":"Automotive / lawn & garden / sports",
+							"7%":"Grocery / pantry",
+							"6%":"Large appliances / movies / music /software / video games"
+							}],
+							"offer_terms": [
+							{
+							"Shop Online/In-Store": "Online",
+					"Cash Back": "3 - 5 days",
+					"Auto Cash": "Yes",
+					"Auto Cash1": "No"
+					}
+					]
+						}
+					]
+				},
+				{
+					"store_name": "",
+					"store_mdname": "",
+					"image_url": "",
+					"image_name": "ajio_small.png",
+					"cash_back_desc": "9%",
+					"show_details": [
+						{
+							"cash_back_long_desc": "9% Cashback",
+							"bannerimage_url": "",
+							"bannerimage_name": "",
+							"shop_via": [
+							{
+							"Amazon Website":"flat 3.5% CD cashback",
+							"Amazon app":"flat 3.0% CD cashback"
+							}],
+							"reward_rates": [
+							{
+							"4%":"Apparel & accessories/luggage & bags / watches/shoes",
+							"5%":"Automotive / lawn & garden / sports",
+							"7%":"Grocery / pantry",
+							"6%":"Large appliances / movies / music /software / video games"
+							}],
+							"offer_terms": [
+							{
+							"Shop Online/In-Store": "Online",
+					"Cash Back": "3 - 5 days",
+					"Auto Cash": "Yes",
+					"Auto Cash1": "No"
+					}
+					]
+						}
+					]
+				}
+			]
+		},
+		{
+			"products": [
+				{
+     
+      "category_type": " ",
+      "category_desc": "Fashion & lifestyle categories",
+      "image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+      "image_name": "flipkart_small.png",
+      "store_type": "fashion",
+      "cash_back_desc": "6%",
+       "product_image_url": "https://ravinkumar15.github.io/sample/assets/images/Trendings",
+      "product_image_name": "fashionwomen.png"
+      },
+    {
+      "category_type": " ",
+      "category_desc": "Small home appliance",
+      "image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+      "image_name": "amazon_small.png",
+      "store_type": "home appliances",
+      "cash_back_desc": "6%",
+      "product_image_url": "https://ravinkumar15.github.io/sample/assets/images/Trendings",
+      "product_image_name": "homeappliances.png"
+      },
+    {
+      "category_type": " ",
+      "category_desc": "Mega indian savings sale",
+      "image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+      "image_name": "myntra_small.png",
+      "store_type": "savings",
+      "cash_back_desc": "11%",
+      "product_image_url": "https://ravinkumar15.github.io/sample/assets/images/Trendings",
+      "product_image_name": "electronics.png" 
+      },
+    {
+      "category_type": " ",
+      "category_desc": "On successful sale",
+      "image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+      "image_name": "Meesho_small.png",
+      "store_type": "savings",
+      "cash_back_desc": "6%",
+      "product_image_url": "https://ravinkumar15.github.io/sample/assets/images/Trendings",
+      "product_image_name": "Fashionboys.png" 
+        },
+    {
+      "category_type": " ",
+      "category_desc": "Get your beauty journey",
+      "image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+      "image_name": "Lakme_small.png",
+      "store_type": " ",
+      "cash_back_desc": "7%",
+      "product_image_url": "https://ravinkumar15.github.io/sample/assets/images/Trendings",
+      "product_image_name": "beautyProducts.png" 
+      }
+			]
+		}
+	]
+}

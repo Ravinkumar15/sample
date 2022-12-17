@@ -1,58 +1,59 @@
-{"daily_deals":[
-    {
-    "store_mdid":"",
-    "category_desc":"Small business sale",
-    "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
-    "image_name":"amazon_small.png",
-    "store_type":"elctronics",
-    "cash_back_desc":"7%",
-    "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
-    "product_image_name":"ElectronicProduct.png",
-    "usertype":"New & existing user"
-    },
-    {
-        "store_mdid":"",
-        "category_desc":"Variety of infant and childcare products",
-        "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
-        "image_name":"firstcry_small.png",
-        "store_type":"beauty",
-        "cash_back_desc":"22%",
-        "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
-        "product_image_name":"babyproduct.png",
-        "usertype":"New & existing user"
-        },
-        {
-            "store_mdid":"",
-            "category_desc":"Get premium quality crispy munchies",
-            "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
-            "image_name":"Snackible_small.png",
-            "store_type":"food",
-            "cash_back_desc":"11%",
-            "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
-            "product_image_name":"snacks.png",
-            "usertype":"New user"
-            },
-            {
-                "store_mdid":"",
-                "category_desc":"festive kurta sets",
-                "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
-                "image_name":"Meesho_small.png",
-                "store_type":"fashion",
-                "cash_back_desc":"68%",
-                "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
-                "product_image_name":"fashion.png",
-                "usertype":"New & existing user"
-                },
-                {
-                    "store_mdid":"",
-                    "category_desc":"Exclusive women's wear",
-                    "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
-                    "image_name":"myntra_small.png",
-                    "store_type":"fashion",
-                    "cash_back_desc":"34%",
-                    "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
-                    "product_image_name":"fashiongirls.png",
-					"usertype":"New user"
-                    }
-    ]
-    }
+{
+	"daily_deals": [
+		{
+			"store_mdid": "",
+			"category_desc": "Small business sale",
+			"image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+			"image_name": "amazon_small.png",
+			"store_type": "elctronics",
+			"cash_back_desc": "7%",
+			"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+			"product_image_name": "ElectronicProduct.png",
+			"usertype": "New & existing user"
+		},
+		{
+			"store_mdid": "",
+			"category_desc": "Variety of infant and childcare products",
+			"image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+			"image_name": "firstcry_small.png",
+			"store_type": "beauty",
+			"cash_back_desc": "22%",
+			"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+			"product_image_name": "babyproduct.png",
+			"usertype": "New & existing user"
+		},
+		{
+			"store_mdid": "",
+			"category_desc": "Get premium quality crispy munchies",
+			"image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+			"image_name": "Snackible_small.png",
+			"store_type": "food",
+			"cash_back_desc": "11%",
+			"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+			"product_image_name": "snacks.png",
+			"usertype": "New user"
+		},
+		{
+			"store_mdid": "",
+			"category_desc": "festive kurta sets",
+			"image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+			"image_name": "Meesho_small.png",
+			"store_type": "fashion",
+			"cash_back_desc": "68%",
+			"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+			"product_image_name": "fashion.png",
+			"usertype": "New & existing user"
+		},
+		{
+			"store_mdid": "",
+			"category_desc": "Exclusive women's wear",
+			"image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+			"image_name": "myntra_small.png",
+			"store_type": "fashion",
+			"cash_back_desc": "34%",
+			"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+			"product_image_name": "fashiongirls.png",
+			"usertype": "New user"
+		}
+	]
+}

@@ -1,227 +1,223 @@
 {
-  "top_header": "Swiggy Offers",
-  "store_heading": "Swiggy Cashbacks (2) ",
-  "bannerimage_url":"https://ravinkumar15.github.io/sample/assets/images/",
-  "bannerimage_name":"swiggy-Mobile-Banner-01.jpg",
-  "color_code":"#FC7474",
-  "show_category_filter":"NO",
-  "offer_details": [
-    {
-      "heading": "Sign Up and Get ₹ 500",
-      "paragraph": "Upto AJIO 500 Coupon Code: Sign Up And Get RS, 500 In Ajio Wallet",
-      "price": "₹8",
-      "reward_type": "cashback",
-      "bg_color": "#FC7474",
-      "image_url": "https://ravinkumar15.github.io/sample/assets/images/",
-      "image_name":"Swiggy.png",
-      "store_name": "Swiggy",
-      "short_desc": "AJIO 500 Coupon Code: Sign Up And Get Rs,500 in Ajio Wallet ",
-      "offer_title": " 5% Back",
-      "offer_expiry": "Offer expires on July 05, 2022",
-      "store_mdname":"swiggy",
-      "store_mdid":"0xDE5B499FB4CA0AD1656BD410F189818C",
-      "storecampaign_guid":"12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
-      "deal_type":"campaign",
-      "show_details": [
-        {
-          "Shop Online/In-Store": "Online",
-          "Cash Back": "3 - 5 days",
-          "Auto Cash": "Yes",
-          "Auto Cash1": "No"
-        }],
-        "show_details_faq": [
-        {
-          "How to redeem this offer ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters.",
-            "How to withdraw cash ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
-        }
-        
-      ]
-    },
-      {
-      "heading": "Sign Up and Get ₹ 500",
-      "paragraph": "Upto AJIO 500 Coupon Code: Sign Up And Get RS, 500 In Ajio Wallet",
-      "price": "₹14",
-      "reward_type": "cashback",
-      "bg_color": "#FC7474",
-      "image_url": "https://ravinkumar15.github.io/sample/assets/images/",
-      "image_name":"Swiggy.png",
-      "store_name": "Swiggy",
-      "short_desc": "AJIO 500 Coupon Code: Sign Up And Get Rs,500 in Ajio Wallet ",
-      "offer_title": " 15% Back",
-      "offer_expiry": "Offer expires on July 05, 2022",
-      "store_mdname":"swiggy",
-      "store_mdid":"0xDE5B499FB4CA0AD1656BD410F189818C",
-      "storecampaign_guid":"1a332f59-155e-4c25-a44a-eaf0560e666e",
-      "deal_type":"campaign",
-      "show_details": [
-        {
-          "Shop Online/In-Store": "Online",
-          "Cash Back": "3 - 5 days",
-          "Auto Cash": "No"
-        }],
-        "show_details_faq": [
-        {
-          "How to redeem this offer ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters.",
-            "How to withdraw cash ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
-        }
-        
-      ]
-    }
-  ],
-  "product_details":[
-   {
-   "image_name":"swiggytopbanner.jpg",
-   "image_url":"https://ravinkumar15.github.io/sample/assets/images/",
-   "deals":[
-   {"top_header":"Swiggy coupons",
-   "product_count":"5",
-   "show_details":[
-   {
-   "product_image_name":"homeappliances.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
-   "category_desc":"Small home appliance",
-   "cash_back_desc":"6%"
-   },
-   {
-   "product_image_name":"fashion.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
-   "category_desc":"Fashion & lifestyle categories",
-   "cash_back_desc":"3%"
-   },
-   {
-   "product_image_name":"electronichomeappliance.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
-   "category_desc":"Large appliances",
-   "cash_back_desc":"1%"
-   },
-   {
-   "product_image_name":"groceryitems.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
-   "category_desc":"Swiggy quick grocery",
-   "cash_back_desc":"1%"
-   },
-   {
-   "product_image_name":"electronics1.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
-   "category_desc":"Electronic devices & accessories",
-   "cash_back_desc":"2%"
-   }
-   
-   ]
-   
-   }
-   ,
-     {"top_header":"Swiggy deals",
-     "product_count":"5",
-   "show_details":[{
-   "product_image_name":"groceryitems.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
-   "category_desc":"Swiggy quick grocery",
-   "cash_back_desc":"1%"
-   },
-   {
-   "product_image_name":"grocery1.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
-   "category_desc":"Swiggy grocery supermart",
-   "cash_back_desc":"8%"
-   },
-   {
-   "product_image_name":"electronics1.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
-   "category_desc":"Electronic devices & accessories",
-   "cash_back_desc":"2%"
-   },
-   {
-   "product_image_name":"electronichomeappliance.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
-   "category_desc":"Large appliances",
-   "cash_back_desc":"1%"
-   },
-   {
-   "product_image_name":"homeappliances.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
-   "category_desc":"Small home appliances",
-   "cash_back_desc":"6%"
-   }
-   
-   ]
-   
-   },
-     {"top_header":"Swiggy offers",
-      "product_count":"5",
-   "show_details":[{
-   "product_image_name":"electronics1.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
-   "category_desc":"Electronic devices & accessories",
-   "cash_back_desc":"2%"
-   },
-   {
-   "product_image_name":"grocery2.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
-   "category_desc":"Swiggy grocery supermart",
-   "cash_back_desc":"8%"
-   },
-   {
-   "product_image_name":"homeappliances.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
-   "category_desc":"Small home appliances",
-   "cash_back_desc":"6%"
-   },
-   {
-   "product_image_name":"fashiongirls.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
-   "category_desc":"Fashion & lifestyle categories",
-   "cash_back_desc":"3%"
-   },
-   {
-   "product_image_name":"electronichomeappliance.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
-   "category_desc":"Large appliances",
-   "cash_back_desc":"8%"
-   }
-   
-   ]
-   
-   },
-     {"top_header":"Swiggy cashbacks",
-      "product_count":"5",
-   "show_details":[{
-   "product_image_name":"tables.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/populardeals/",
-   "category_desc":"Furniture",
-   "cash_back_desc":"6%"
-   },
-   {
-   "product_image_name":"books.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/populardeals/",
-   "category_desc":"Books & general merchandise",
-   "cash_back_desc":"4%"
-   },
-   {
-   "product_image_name":"television.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/populardeals/",
-   "category_desc":"Electronic devices & accessories",
-   "cash_back_desc":"2%"
-   },
-   {
-   "product_image_name":"groceryitems.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
-   "category_desc":"Swiggy quick grocery",
-   "cash_back_desc":"1%"
-   },
-   {
-   "product_image_name":"grocery1.png",
-   "product_image_url":"https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
-   "category_desc":"Swiggy grocery supermart",
-   "cash_back_desc":"8%"
-   }
-   
-   ]
-   
-   }]
-   }
-   ]
-   
-  
-  
+	"top_header": "Swiggy Offers",
+	"store_heading": "Swiggy Cashbacks (2) ",
+	"bannerimage_url": "https://ravinkumar15.github.io/sample/assets/images/",
+	"bannerimage_name": "swiggy-Mobile-Banner-01.jpg",
+	"color_code": "#FC7474",
+	"show_category_filter": "NO",
+	"offer_details": [
+		{
+			"heading": "Sign Up and Get ₹ 500",
+			"paragraph": "Upto AJIO 500 Coupon Code: Sign Up And Get RS, 500 In Ajio Wallet",
+			"price": "₹8",
+			"reward_type": "cashback",
+			"bg_color": "#FC7474",
+			"image_url": "https://ravinkumar15.github.io/sample/assets/images/",
+			"image_name": "Swiggy.png",
+			"store_name": "Swiggy",
+			"short_desc": "AJIO 500 Coupon Code: Sign Up And Get Rs,500 in Ajio Wallet ",
+			"offer_title": " 5% Back",
+			"offer_expiry": "Offer expires on July 05, 2022",
+			"store_mdname": "swiggy",
+			"store_mdid": "0xDE5B499FB4CA0AD1656BD410F189818C",
+			"storecampaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
+			"deal_type": "campaign",
+			"show_details": [
+				{
+					"Shop Online/In-Store": "Online",
+					"Cash Back": "3 - 5 days",
+					"Auto Cash": "Yes",
+					"Auto Cash1": "No"
+				}
+			],
+			"show_details_faq": [
+				{
+					"How to redeem this offer ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters.",
+					"How to withdraw cash ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
+				}
+			]
+		},
+		{
+			"heading": "Sign Up and Get ₹ 500",
+			"paragraph": "Upto AJIO 500 Coupon Code: Sign Up And Get RS, 500 In Ajio Wallet",
+			"price": "₹14",
+			"reward_type": "cashback",
+			"bg_color": "#FC7474",
+			"image_url": "https://ravinkumar15.github.io/sample/assets/images/",
+			"image_name": "Swiggy.png",
+			"store_name": "Swiggy",
+			"short_desc": "AJIO 500 Coupon Code: Sign Up And Get Rs,500 in Ajio Wallet ",
+			"offer_title": " 15% Back",
+			"offer_expiry": "Offer expires on July 05, 2022",
+			"store_mdname": "swiggy",
+			"store_mdid": "0xDE5B499FB4CA0AD1656BD410F189818C",
+			"storecampaign_guid": "1a332f59-155e-4c25-a44a-eaf0560e666e",
+			"deal_type": "campaign",
+			"show_details": [
+				{
+					"Shop Online/In-Store": "Online",
+					"Cash Back": "3 - 5 days",
+					"Auto Cash": "No"
+				}
+			],
+			"show_details_faq": [
+				{
+					"How to redeem this offer ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters.",
+					"How to withdraw cash ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
+				}
+			]
+		}
+	],
+	"product_details": [
+		{
+			"image_name": "swiggytopbanner.jpg",
+			"image_url": "https://ravinkumar15.github.io/sample/assets/images/",
+			"deals": [
+				{
+					"top_header": "Swiggy coupons",
+					"product_count": "5",
+					"show_details": [
+						{
+							"product_image_name": "homeappliances.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"category_desc": "Small home appliance",
+							"cash_back_desc": "6%"
+						},
+						{
+							"product_image_name": "fashion.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+							"category_desc": "Fashion & lifestyle categories",
+							"cash_back_desc": "3%"
+						},
+						{
+							"product_image_name": "electronichomeappliance.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+							"category_desc": "Large appliances",
+							"cash_back_desc": "1%"
+						},
+						{
+							"product_image_name": "groceryitems.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"category_desc": "Swiggy quick grocery",
+							"cash_back_desc": "1%"
+						},
+						{
+							"product_image_name": "electronics1.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"category_desc": "Electronic devices & accessories",
+							"cash_back_desc": "2%"
+						}
+					]
+				},
+				{
+					"top_header": "Swiggy deals",
+					"product_count": "5",
+					"show_details": [
+						{
+							"product_image_name": "groceryitems.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"category_desc": "Swiggy quick grocery",
+							"cash_back_desc": "1%"
+						},
+						{
+							"product_image_name": "grocery1.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"category_desc": "Swiggy grocery supermart",
+							"cash_back_desc": "8%"
+						},
+						{
+							"product_image_name": "electronics1.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"category_desc": "Electronic devices & accessories",
+							"cash_back_desc": "2%"
+						},
+						{
+							"product_image_name": "electronichomeappliance.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+							"category_desc": "Large appliances",
+							"cash_back_desc": "1%"
+						},
+						{
+							"product_image_name": "homeappliances.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"category_desc": "Small home appliances",
+							"cash_back_desc": "6%"
+						}
+					]
+				},
+				{
+					"top_header": "Swiggy offers",
+					"product_count": "5",
+					"show_details": [
+						{
+							"product_image_name": "electronics1.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"category_desc": "Electronic devices & accessories",
+							"cash_back_desc": "2%"
+						},
+						{
+							"product_image_name": "grocery2.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"category_desc": "Swiggy grocery supermart",
+							"cash_back_desc": "8%"
+						},
+						{
+							"product_image_name": "homeappliances.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"category_desc": "Small home appliances",
+							"cash_back_desc": "6%"
+						},
+						{
+							"product_image_name": "fashiongirls.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+							"category_desc": "Fashion & lifestyle categories",
+							"cash_back_desc": "3%"
+						},
+						{
+							"product_image_name": "electronichomeappliance.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+							"category_desc": "Large appliances",
+							"cash_back_desc": "8%"
+						}
+					]
+				},
+				{
+					"top_header": "Swiggy cashbacks",
+					"product_count": "5",
+					"show_details": [
+						{
+							"product_image_name": "tables.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/populardeals/",
+							"category_desc": "Furniture",
+							"cash_back_desc": "6%"
+						},
+						{
+							"product_image_name": "books.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/populardeals/",
+							"category_desc": "Books & general merchandise",
+							"cash_back_desc": "4%"
+						},
+						{
+							"product_image_name": "television.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/populardeals/",
+							"category_desc": "Electronic devices & accessories",
+							"cash_back_desc": "2%"
+						},
+						{
+							"product_image_name": "groceryitems.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"category_desc": "Swiggy quick grocery",
+							"cash_back_desc": "1%"
+						},
+						{
+							"product_image_name": "grocery1.png",
+							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"category_desc": "Swiggy grocery supermart",
+							"cash_back_desc": "8%"
+						}
+					]
+				}
+			]
+		}
+	]
 }

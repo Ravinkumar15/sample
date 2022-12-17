@@ -1,101 +1,106 @@
 {
-    "trip_history":[
-{
-    "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
-    "image_name":"myntra_small.png",
-    "trip_id":"116829",
-    "cashback_amount":"₹0.00",
-    "status":"Offer activated",
-    "activated_on":"2 day(s) ago",
-    "trip_details":[
-        {
-            "status1":"True",
-            "status2":"True",
-            "status3":"True",
-            "status4":"True",
-            "status5":"True"
-}]
-},
-{
-    "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
-    "image_name":"flipkart_small.png",
-    "trip_id":"116828",
-    "cashback_amount":"₹75.00",
-    "status":"Approved",
-    "activated_on":"5 day(s) ago",
-    "trip_details":[
-        {
-            "status1":"True",
-            "status2":"True",
-            "status3":"False",
-            "status4":"False",
-            "status5":"False"
-}]
-},
-{
-    "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
-    "image_name":"amazon_small.png",
-    "trip_id":"116827",
-    "cashback_amount":"₹0.00",
-    "status":"No cashback",
-    "activated_on":"7 day(s) ago",
-    "trip_details":[
-        {
-            "status1":"True",
-            "status2":"True",
-            "status3":"True",
-            "status4":"False",
-            "status5":"False"
-}]
-},
-{
-    "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
-    "image_name":"myntra_small.png",
-    "trip_id":"116826",
-    "cashback_amount":"₹250.00",
-    "status":"Approved",
-    "activated_on":"12 day(s) ago",
-    "trip_details":[
-        {
-            "status1":"False",
-            "status2":"False",
-            "status3":"False",
-            "status4":"False",
-            "status5":"False"
-}]
-},
-{
-    "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
-    "image_name":"ShopCluesLogo.png",
-    "trip_id":"116825",
-    "cashback_amount":"₹80.00",
-    "status":"Approved",
-    "activated_on":"15 day(s) ago",
-    "trip_details":[
-        {
-            "status1":"True",
-            "status2":"True",
-            "status3":"True",
-            "status4":"True",
-            "status5":"False"
-}]
-},
-{
-    "image_url":"https://ravinkumar15.github.io/sample/assets/images/Logo/",
-    "image_name":"Meesho_small.png",
-    "trip_id":"116824",
-    "cashback_amount":"₹0.00",
-    "status":"No cashback",
-    "activated_on":"18 day(s) ago",
-    "trip_details":[
-        {
-            "status1":"",
-            "status2":"",
-            "status3":"",
-            "status4":"",
-            "status5":""
-}]
-}
-
-    ]
+	"trip_history": [
+		{
+			"image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+			"image_name": "myntra_small.png",
+			"trip_id": "116829",
+			"cashback_amount": "₹0.00",
+			"status": "Offer activated",
+			"activated_on": "2 day(s) ago",
+			"trip_details": [
+				{
+					"status1": "True",
+					"status2": "True",
+					"status3": "True",
+					"status4": "True",
+					"status5": "True"
+				}
+			]
+		},
+		{
+			"image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+			"image_name": "flipkart_small.png",
+			"trip_id": "116828",
+			"cashback_amount": "₹75.00",
+			"status": "Approved",
+			"activated_on": "5 day(s) ago",
+			"trip_details": [
+				{
+					"status1": "True",
+					"status2": "True",
+					"status3": "False",
+					"status4": "False",
+					"status5": "False"
+				}
+			]
+		},
+		{
+			"image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+			"image_name": "amazon_small.png",
+			"trip_id": "116827",
+			"cashback_amount": "₹0.00",
+			"status": "No cashback",
+			"activated_on": "7 day(s) ago",
+			"trip_details": [
+				{
+					"status1": "True",
+					"status2": "True",
+					"status3": "True",
+					"status4": "False",
+					"status5": "False"
+				}
+			]
+		},
+		{
+			"image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+			"image_name": "myntra_small.png",
+			"trip_id": "116826",
+			"cashback_amount": "₹250.00",
+			"status": "Approved",
+			"activated_on": "12 day(s) ago",
+			"trip_details": [
+				{
+					"status1": "False",
+					"status2": "False",
+					"status3": "False",
+					"status4": "False",
+					"status5": "False"
+				}
+			]
+		},
+		{
+			"image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+			"image_name": "ShopCluesLogo.png",
+			"trip_id": "116825",
+			"cashback_amount": "₹80.00",
+			"status": "Approved",
+			"activated_on": "15 day(s) ago",
+			"trip_details": [
+				{
+					"status1": "True",
+					"status2": "True",
+					"status3": "True",
+					"status4": "True",
+					"status5": "False"
+				}
+			]
+		},
+		{
+			"image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+			"image_name": "Meesho_small.png",
+			"trip_id": "116824",
+			"cashback_amount": "₹0.00",
+			"status": "No cashback",
+			"activated_on": "18 day(s) ago",
+			"trip_details": [
+				{
+					"status1": "",
+					"status2": "",
+					"status3": "",
+					"status4": "",
+					"status5": ""
+				}
+			]
+		}
+	]
 }

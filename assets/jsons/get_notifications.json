@@ -1,0 +1,34 @@
+{
+	"notiifications": [
+		{
+			"image_url": "",
+			"image_name": "",
+			"cash_back_desc": "Min 25% off on Silver beauty Anniversary",
+			"store_name": "Health and Glow | Silver beauty Anniversary"
+		},
+		{
+			"image_url": "",
+			"image_name": "",
+			"cash_back_desc": "Save upto 5%  in each purchase",
+			"store_name": "Amazon India Big Savings day"
+		},
+		{
+			"image_url": "",
+			"image_name": "",
+			"cash_back_desc": "Save upto 20% on each category",
+			"store_name": "Flipkart Big Billion days"
+		},
+		{
+			"image_url": "",
+			"image_name": "",
+			"cash_back_desc": "60% Off on Boat bluetooth headphones, Air podes",
+			"store_name": "Boat upto 60% Off"
+		},
+		{
+			"image_url": "",
+			"image_name": "",
+			"cash_back_desc": "25% Off on beauty products ",
+			"store_name": "Kapiva upto 25% Off"
+		}
+	]
+}

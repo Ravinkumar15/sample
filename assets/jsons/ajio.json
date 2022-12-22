@@ -1,0 +1,91 @@
+{
+	"top_header": "Ajio store",
+	"store_mdid": "0x9613E8D523E0B54D0277FC92B3B12501",
+	"store_name": "Ajio",
+	"store_mdname": "ajio",
+	"store_heading": "Ajio cashbacks",
+	"bannerimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/app/assets/images/banner/",
+	"bannerimage_name": "hometopbanner_banner_133159176876163256.jpg",
+	"color_code": "#2f4254",
+	"show_category_filter": "0",
+	"offer": [
+		{
+			"offer_title": "Ajio New User sale",
+			"long_desc": "Stay with current apparel trends only at Ajio - For New User + Up to 8% Cash Back",
+			"reward_value": "8",
+			"reward_type": "%",
+			"offer_type": "cashback",
+			"bg_color": "#FFBA39",
+			"image_url": "https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
+			"image_name": "ajio_small.png",
+			"offer_expiry": "",
+			"campaign_guid": "3939307d-3ef8-4019-80a6-e095969876cb",
+			"dealtype": "campaign",
+			"show_details": [
+				{
+					"Shop Online/In-Store": "Online",
+					"Cash Back": "3 - 5 days",
+					"Auto Cash": "Yes"
+				}
+			],
+			"show_details_faq": [
+				{
+					"How to redeem this offer ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters.",
+					"How to withdraw cash ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
+				}
+			]
+		},
+		{
+			"offer_title": "Ajio Existing User sale",
+			"long_desc": "For Existing User + Up to 4% Cash Back",
+			"reward_value": "4",
+			"reward_type": "%",
+			"offer_type": "cashback",
+			"bg_color": "#FFBA39",
+			"image_url": "https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
+			"image_name": "ajio_small.png",
+			"offer_expiry": "",
+			"campaign_guid": "92e0af1c-77b5-45c9-8317-377d2a1cb5a7",
+			"dealtype": "campaign",
+			"show_details": [
+				{
+					"Shop Online/In-Store": "Online",
+					"Cash Back": "3 - 5 days",
+					"Auto Cash": "Yes"
+				}
+			],
+			"show_details_faq": [
+				{
+					"How to redeem this offer ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters.",
+					"How to withdraw cash ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
+				}
+			]
+		},
+		{
+			"offer_title": "Ajio Special offer",
+			"long_desc": "Get 50-90% off 12,00,000|4000+ brands + Up to 4% Cash Back",
+			"reward_value": "4",
+			"reward_type": "%",
+			"offer_type": "cashback",
+			"bg_color": "#FFBA39",
+			"image_url": "https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
+			"image_name": "ajio_small.png",
+			"offer_expiry": "",
+			"campaign_guid": "8dc347aa-7438-4c46-8ead-bb4d948a221b",
+			"dealtype": "offer",
+			"show_details": [
+				{
+					"Shop Online/In-Store": "Online",
+					"Cash Back": "3 - 5 days",
+					"Auto Cash": "Yes"
+				}
+			],
+			"show_details_faq": [
+				{
+					"How to redeem this offer ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters.",
+					"How to withdraw cash ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
+				}
+			]
+		}
+	]
+}

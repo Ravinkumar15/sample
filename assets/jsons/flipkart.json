@@ -1,0 +1,130 @@
+{
+	"product": [
+		{
+			"image_name": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/app/assets/images/banner/",
+			"image_url": "homesidelowerbanner_banner_133161781105261232.jpg",
+			"deals": [
+				{
+					"top_header": "Flipkart coupons",
+					"product_count": "4",
+					"show_details": [
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "Small Home Appliances ( Air Cooler, Fan, Geyser, Room Heater, Hand Blender, Electric Cooker, Mixer Grinder,Etc)-New User + Up to 6% Rewards",
+							"reward_value": "6%"
+						},
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "Fashion & Lifestyle Categories - New User , Existing User + Up to 6% Rewards",
+							"reward_value": "6%"
+						},
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "Large Appliances ( Television, Refrigerators, Washing Machines & Air Conditioner) -New User, Existing User + Up to 1% Rewards",
+							"reward_value": "1%"
+						},
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "Flipkart Quick Grocery - Existing User + Up to 1% Rewards",
+							"reward_value": "1%"
+						}
+					]
+				},
+				{
+					"top_header": "Flipkart deals",
+					"product_count": "14",
+					"show_details": [
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "Electronic Devices & Accessories (Mobile Protection, Power bank, Rest of Mobile Accessories,Gaming & Tablet, Laptop & Desktop)- New User + Up to 2% Rewards",
+							"reward_value": "2%"
+						},
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "Electronic Devices & Accessories (Mobile Protection, Power bank, Rest of Mobile Accessories,Gaming & Tablet, Laptop & Desktop)- Existing User + Up to 2% Rewards",
+							"reward_value": "2%"
+						},
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "Large Appliances - Existing User + Up to 1% Rewards",
+							"reward_value": "1%"
+						},
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "Books & General Merchandise - Existing User + Up to 3% Rewards",
+							"reward_value": "3%"
+						},
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "Small Home Appliances Air Cooler, Fan, Geyser, Room Heater, Hand Blender, Electric Cooker, Mixer Grinder,etc -Existing User + Up to 4% Rewards",
+							"reward_value": "4%"
+						},
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "Home Decor, Kitchen & Dining Products, Pet Supplies, Hardware And Tools - New User + Up to 2% Rewards",
+							"reward_value": "2%"
+						},
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "New User - Books & General Merchandise + Up to 4% Rewards",
+							"reward_value": "4%"
+						},
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "New User - Books & General Merchandise + Up to 4% Rewards",
+							"reward_value": "4%"
+						},
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "Furnitures,Bed, Sofa, Shoe Cabinet, Bookshelf,Coffee Table, Office Study table etc - New User + Up to 4% Rewards",
+							"reward_value": "4%"
+						},
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "Home Decor, Kitchen & Dining Products, Pet Supplies, Hardware And Tools - Existing User + Up to 2% Rewards",
+							"reward_value": "2%"
+						},
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "New User - Flipkart Quick Grocery + Up to 1% Rewards",
+							"reward_value": "1%"
+						},
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "Grocery- Flipkart Supermart - Existing User + Up to 1% Rewards",
+							"reward_value": "1%"
+						},
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "Furnitures,Furnitures,Bed, Sofa, Shoe Cabinet, Bookshelf,Coffee Table, Office Study table etc - Existing User + Up to 3% Rewards",
+							"reward_value": "3%"
+						},
+						{
+							"product_image_url": "",
+							"product_image_name": "",
+							"category_desc": "EOSS Sale is live - 60-90% off on Christmas Edition + Up to 6% Rewards",
+							"reward_value": "6%"
+						}
+					]
+				}
+			]
+		}
+	]
+}

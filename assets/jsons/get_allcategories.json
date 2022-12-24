@@ -175,51 +175,51 @@
      
       "category_type": " ",
       "category_desc": "Fashion & lifestyle categories",
-      "image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+      "image_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
       "image_name": "flipkart_small.png",
       "store_type": "fashion",
       "cash_back_desc": "6%",
-       "product_image_url": "https://ravinkumar15.github.io/sample/assets/images/Trendings",
+       "product_image_url": "https://ravinkumar15.github.io/dev/assets/images/Trendings",
       "product_image_name": "fashionwomen.png"
       },
     {
       "category_type": " ",
       "category_desc": "Small home appliance",
-      "image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+      "image_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
       "image_name": "amazon_small.png",
       "store_type": "home appliances",
       "cash_back_desc": "6%",
-      "product_image_url": "https://ravinkumar15.github.io/sample/assets/images/Trendings",
+      "product_image_url": "https://ravinkumar15.github.io/dev/assets/images/Trendings",
       "product_image_name": "homeappliances.png"
       },
     {
       "category_type": " ",
       "category_desc": "Mega indian savings sale",
-      "image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+      "image_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
       "image_name": "myntra_small.png",
       "store_type": "savings",
       "cash_back_desc": "11%",
-      "product_image_url": "https://ravinkumar15.github.io/sample/assets/images/Trendings",
+      "product_image_url": "https://ravinkumar15.github.io/dev/assets/images/Trendings",
       "product_image_name": "electronics.png" 
       },
     {
       "category_type": " ",
       "category_desc": "On successful sale",
-      "image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+      "image_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
       "image_name": "Meesho_small.png",
       "store_type": "savings",
       "cash_back_desc": "6%",
-      "product_image_url": "https://ravinkumar15.github.io/sample/assets/images/Trendings",
+      "product_image_url": "https://ravinkumar15.github.io/dev/assets/images/Trendings",
       "product_image_name": "Fashionboys.png" 
         },
     {
       "category_type": " ",
       "category_desc": "Get your beauty journey",
-      "image_url": "https://ravinkumar15.github.io/sample/assets/images/Logo/",
+      "image_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
       "image_name": "Lakme_small.png",
       "store_type": " ",
       "cash_back_desc": "7%",
-      "product_image_url": "https://ravinkumar15.github.io/sample/assets/images/Trendings",
+      "product_image_url": "https://ravinkumar15.github.io/dev/assets/images/Trendings",
       "product_image_name": "beautyProducts.png" 
       }
 			]

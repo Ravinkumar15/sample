@@ -1,7 +1,7 @@
 {
 	"top_header": "Swiggy Offers",
 	"store_heading": "Swiggy Cashbacks (2) ",
-	"bannerimage_url": "https://ravinkumar15.github.io/sample/assets/images/",
+	"bannerimage_url": "https://ravinkumar15.github.io/dev/assets/images/",
 	"bannerimage_name": "swiggy-Mobile-Banner-01.jpg",
 	"color_code": "#FC7474",
 	"show_category_filter": "NO",
@@ -12,7 +12,7 @@
 			"price": "₹8",
 			"reward_type": "cashback",
 			"bg_color": "#FC7474",
-			"image_url": "https://ravinkumar15.github.io/sample/assets/images/",
+			"image_url": "https://ravinkumar15.github.io/dev/assets/images/",
 			"image_name": "Swiggy.png",
 			"store_name": "Swiggy",
 			"short_desc": "AJIO 500 Coupon Code: Sign Up And Get Rs,500 in Ajio Wallet ",
@@ -43,7 +43,7 @@
 			"price": "₹14",
 			"reward_type": "cashback",
 			"bg_color": "#FC7474",
-			"image_url": "https://ravinkumar15.github.io/sample/assets/images/",
+			"image_url": "https://ravinkumar15.github.io/dev/assets/images/",
 			"image_name": "Swiggy.png",
 			"store_name": "Swiggy",
 			"short_desc": "AJIO 500 Coupon Code: Sign Up And Get Rs,500 in Ajio Wallet ",
@@ -71,7 +71,7 @@
 	"product_details": [
 		{
 			"image_name": "swiggytopbanner.jpg",
-			"image_url": "https://ravinkumar15.github.io/sample/assets/images/",
+			"image_url": "https://ravinkumar15.github.io/dev/assets/images/",
 			"deals": [
 				{
 					"top_header": "Swiggy coupons",
@@ -79,31 +79,31 @@
 					"show_details": [
 						{
 							"product_image_name": "homeappliances.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/deals_of_week/",
 							"category_desc": "Small home appliance",
 							"cash_back_desc": "6%"
 						},
 						{
 							"product_image_name": "fashion.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/daily_deals/",
 							"category_desc": "Fashion & lifestyle categories",
 							"cash_back_desc": "3%"
 						},
 						{
 							"product_image_name": "electronichomeappliance.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/daily_deals/",
 							"category_desc": "Large appliances",
 							"cash_back_desc": "1%"
 						},
 						{
 							"product_image_name": "groceryitems.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/deals_of_week/",
 							"category_desc": "Swiggy quick grocery",
 							"cash_back_desc": "1%"
 						},
 						{
 							"product_image_name": "electronics1.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/deals_of_week/",
 							"category_desc": "Electronic devices & accessories",
 							"cash_back_desc": "2%"
 						}
@@ -115,31 +115,31 @@
 					"show_details": [
 						{
 							"product_image_name": "groceryitems.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/deals_of_week/",
 							"category_desc": "Swiggy quick grocery",
 							"cash_back_desc": "1%"
 						},
 						{
 							"product_image_name": "grocery1.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/deals_of_week/",
 							"category_desc": "Swiggy grocery supermart",
 							"cash_back_desc": "8%"
 						},
 						{
 							"product_image_name": "electronics1.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/deals_of_week/",
 							"category_desc": "Electronic devices & accessories",
 							"cash_back_desc": "2%"
 						},
 						{
 							"product_image_name": "electronichomeappliance.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/daily_deals/",
 							"category_desc": "Large appliances",
 							"cash_back_desc": "1%"
 						},
 						{
 							"product_image_name": "homeappliances.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/deals_of_week/",
 							"category_desc": "Small home appliances",
 							"cash_back_desc": "6%"
 						}
@@ -151,31 +151,31 @@
 					"show_details": [
 						{
 							"product_image_name": "electronics1.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/deals_of_week/",
 							"category_desc": "Electronic devices & accessories",
 							"cash_back_desc": "2%"
 						},
 						{
 							"product_image_name": "grocery2.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/deals_of_week/",
 							"category_desc": "Swiggy grocery supermart",
 							"cash_back_desc": "8%"
 						},
 						{
 							"product_image_name": "homeappliances.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/deals_of_week/",
 							"category_desc": "Small home appliances",
 							"cash_back_desc": "6%"
 						},
 						{
 							"product_image_name": "fashiongirls.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/daily_deals/",
 							"category_desc": "Fashion & lifestyle categories",
 							"cash_back_desc": "3%"
 						},
 						{
 							"product_image_name": "electronichomeappliance.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/daily_deals/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/daily_deals/",
 							"category_desc": "Large appliances",
 							"cash_back_desc": "8%"
 						}
@@ -187,31 +187,31 @@
 					"show_details": [
 						{
 							"product_image_name": "tables.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/populardeals/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/populardeals/",
 							"category_desc": "Furniture",
 							"cash_back_desc": "6%"
 						},
 						{
 							"product_image_name": "books.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/populardeals/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/populardeals/",
 							"category_desc": "Books & general merchandise",
 							"cash_back_desc": "4%"
 						},
 						{
 							"product_image_name": "television.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/populardeals/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/populardeals/",
 							"category_desc": "Electronic devices & accessories",
 							"cash_back_desc": "2%"
 						},
 						{
 							"product_image_name": "groceryitems.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/deals_of_week/",
 							"category_desc": "Swiggy quick grocery",
 							"cash_back_desc": "1%"
 						},
 						{
 							"product_image_name": "grocery1.png",
-							"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/deals_of_week/",
+							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/deals_of_week/",
 							"category_desc": "Swiggy grocery supermart",
 							"cash_back_desc": "8%"
 						}

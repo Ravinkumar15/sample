@@ -12,8 +12,10 @@
 		{
 			"offer_title": "Ajio New User sale",
 			"long_desc": "Stay with current apparel trends only at Ajio - For New User + Up to 8% Cash Back",
+			"short_desc":"",
 			"reward_value": "8",
 			"reward_type": "%",
+			"reward_method":"",
 			"offer_type": "cashback",
 			"bg_color": "#FFBA39",
 			"image_url": "https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
@@ -38,8 +40,10 @@
 		{
 			"offer_title": "Ajio Existing User sale",
 			"long_desc": "For Existing User + Up to 4% Cash Back",
+			"short_desc":"",
 			"reward_value": "4",
 			"reward_type": "%",
+			"reward_method":"",
 			"offer_type": "cashback",
 			"bg_color": "#FFBA39",
 			"image_url": "https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
@@ -64,8 +68,10 @@
 		{
 			"offer_title": "Ajio Special offer",
 			"long_desc": "Get 50-90% off 12,00,000|4000+ brands + Up to 4% Cash Back",
+			"short_desc":"",
 			"reward_value": "4",
 			"reward_type": "%",
+			"reward_method":"",
 			"offer_type": "cashback",
 			"bg_color": "#FFBA39",
 			"image_url": "https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",

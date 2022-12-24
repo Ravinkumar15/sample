@@ -3,7 +3,7 @@
 		{
 			"store_mdid": " ",
 			"storecampaign_guid": " ",
-			"image_url": "https://ravinkumar15.github.io/sample/assets/images/topbanners/",
+			"image_url": "https://ravinkumar15.github.io/dev/assets/images/topbanners/",
 			"image_name": "FlipkartTopBanner.png",
 			"store_mdname": "flipkart",
 			"dealtype": "campaign"
@@ -11,7 +11,7 @@
 		{
 			"store_mdid": " ",
 			"storecampaign_guid": " ",
-			"image_url": "https://ravinkumar15.github.io/sample/assets/images/topbanners/",
+			"image_url": "https://ravinkumar15.github.io/dev/assets/images/topbanners/",
 			"image_name": "AmazonTopBanner.png",
 			"store_mdname": "amazon",
 			"dealtype": "campaign"
@@ -19,7 +19,7 @@
 		{
 			"store_mdid": " ",
 			"storecampaign_guid": " ",
-			"image_url": "https://ravinkumar15.github.io/sample/assets/images/topbanners/",
+			"image_url": "https://ravinkumar15.github.io/dev/assets/images/topbanners/",
 			"image_name": "swiggytopbanner.jpg",
 			"store_mdname": "swiggy",
 			"dealtype": "campaign"

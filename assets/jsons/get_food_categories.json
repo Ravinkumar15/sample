@@ -1,5 +1,5 @@
 {
-	"background_image_url": "https://ravinkumar15.github.io/sample/assets/images/food_categories/",
+	"background_image_url": "https://ravinkumar15.github.io/dev/assets/images/food_categories/",
 	"background_image_name": "homefoodbanner.png",
 	"max_cashback_offer": " Up to 60% off",
 	"max_cashback_desc": "order now to enjoy these benefits",
@@ -14,7 +14,7 @@
 			"store_type": "",
 			"cash_back_desc": "Up to ₹100",
 			"cash_back_amount": "₹ 22 Cashback",
-			"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/food_categories/",
+			"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/food_categories/",
 			"product_image_name": "food_image1.jpg"
 		},
 		{
@@ -27,7 +27,7 @@
 			"store_type": "",
 			"cash_back_desc": "Up to ₹75",
 			"cash_back_amount": "",
-			"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/food_categories/",
+			"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/food_categories/",
 			"product_image_name": "food_image5.png"
 		},
 		{
@@ -40,7 +40,7 @@
 			"store_type": "",
 			"cash_back_desc": "Up to ₹136",
 			"cash_back_amount": "",
-			"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/food_categories/",
+			"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/food_categories/",
 			"product_image_name": "food_image4.png"
 		},
 		{
@@ -53,7 +53,7 @@
 			"store_type": "",
 			"cash_back_desc": "Up to ₹32",
 			"cash_back_amount": "",
-			"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/food_categories/",
+			"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/food_categories/",
 			"product_image_name": "food_image3.png"
 		},
 		{
@@ -66,7 +66,7 @@
 			"store_type": "",
 			"cash_back_desc": "Up to ₹76",
 			"cash_back_amount": "",
-			"product_image_url": "https://ravinkumar15.github.io/sample/assets/images/food_categories/",
+			"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/food_categories/",
 			"product_image_name": "food_image2.png"
 		}
 	]

@@ -17,9 +17,6 @@
 					"Earned on": ": 05-Jan-2022"
 				}
 			],
-			// My Earnings - Show detail content - Approved Shopping Cashback #;
-
-
 			"show_details": [
 				{
 					"reward_desc": "Congrats, You earned ₹100.00 cashback on your amazon purchase",
@@ -58,9 +55,7 @@
 					"Purchased on ": ": 01-Jan-2022",
 					"Earned on": ": 05-Jan-2022"
 				}
-			],//My Earnings - Show detail content - Pending Shopping Cashback 
-
-
+			],
 			"show_details": [
 				{
 					"reward_desc": "You earned ₹50.00 cashback on your amazon purchase",
@@ -104,9 +99,7 @@
 					"Purchased on ": ": 01-Jan-2022",
 					"Earned on": ": 05-Jan-2022"
 				}
-			],// My Earnings - Show detail content - Cancelled Shopping Cashback  
-
-
+			],
 			"show_details": [
 				{
 					"reward_desc": "₹100.00",
@@ -126,19 +119,10 @@
 							"Purchase on": "24-DEC-2022",
 							"Cancelled on": "29-DEC-2022"
 						}
-					],
-					"claim_details": [
-						{
-							"Issue reported": "24-DEC-2022",
-							"Issue resolved": "24-DEC-2022",
-							"Resolution ": " Cashback Approved"
-						}
 					]
 				}
 			]
-		},//My Earnings - Show detail content - Approved Mobile Recharge Cashback 
-
-
+		},
 		{
 			"store_name": "9345041329",
 			"status": "Approved",
@@ -182,8 +166,7 @@
 				}
 			]
 		},
-		//My Earnings - Show detail content - Approved Referral Cashback 
-			{
+		{
 			"store_name": "Referral Bonus",
 			"status": "Approved",
 			"reward_amount": "₹30.00",
@@ -205,7 +188,7 @@
 							"Mobile Number": "9345041329",
 							"Status": "Approved",
 							"Referral Id ": "1235445",
-							"Reward":"₹30.00",
+							"Reward": "₹30.00",
 							"Joined on": "21-DEC-2023",
 							"Earned on": "01-JAN-2023",
 							"Redeemable": "Yes",
@@ -215,10 +198,9 @@
 				}
 			]
 		},
-		//My Earnings - Show detail content - Pending Referral Cashback
 		{
 			"store_name": "Referral Bonus",
-			"status": "Approved",
+			"status": "Pending",
 			"reward_amount": "₹30.00",
 			"image_name": "refer_icon.png",
 			"image_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
@@ -243,7 +225,7 @@
 							"Mobile Number": "9345041329",
 							"Status": "Pending",
 							"Referral Id ": "1235445",
-							"Reward":"₹30.00",
+							"Reward": "₹30.00",
 							"Joined on": "21-DEC-2023",
 							"Earned on": "-",
 							"Redeemable": "Yes",
@@ -253,7 +235,6 @@
 				}
 			]
 		},
-		//My Earnings - Show detail content - Approved Giveaway Cashback
 		{
 			"store_name": "Thunivu Movie Contest",
 			"status": "Approved",
@@ -302,7 +283,6 @@
 				}
 			]
 		}
-		
 	]
 }
 			

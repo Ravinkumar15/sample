@@ -1,178 +1,504 @@
 {
-	"top_header": "Flipkart store",
-	"store_mdid": "0xDE5B499FB4CA0AD1656BD410F189818C",
 	"store_name": "Flipkart",
 	"store_mdname": "flipkart",
-	"store_heading": "",
+	"store_heading": "Flipkart store",
+	"store_mdid": "0xDE5B499FB4CA0AD1656BD410F189818C",
 	"bannerimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/app/assets/images/banner/",
 	"bannerimage_name": "homesidelowerbanner_banner_133161781105261232.jpg",
 	"color_code": "#2874f0",
 	"show_category_filter": "0",
+	"store_image_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/app/assets/images/store/",
+	"store_image_name": "flipkart_small.png",
+	"background_image_url": "https://ravinkumar15.github.io/dev/assets/images/topbanners",
+	"background_image_name": "flipkartbg.png",
 	"product": [
 		{
 			"deals": [
 				{
 					"top_header": "Flipkart coupons",
 					"product_count": "4",
-					"show_details": [
+					"product_details": [
 						{
 							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/flipkart/",
 							"product_image_name": "homeappliances.png",
 							"long_desc": "Small Home Appliances ( Air Cooler, Fan, Geyser, Room Heater, Hand Blender, Electric Cooker, Mixer Grinder,Etc)-New User + Up to 6% Rewards",
-							"short_desc":"Small Home Appliances ",
+							"short_desc": "Small Home Appliances ",
 							"reward_value": "6%",
+							"reward_type": "percent",
+							"reward_method": "",
 							"campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
-							"dealtype": "campaign"
+							"dealtype": "campaign",
+							"show_details": [
+								{
+									"shopvia": [
+										{
+											"Flipkart website": "Flat 2.5% cashback",
+											"Flipkart App": "Flat 3.5% cashback"
+										}
+									],
+									"offer_terms": [
+										{
+											"Shop Online/In-Store": "Online",
+											"Cash Back": "3 - 5 days",
+											"Auto Cash": "No"
+										}
+									]
+								}
+							]
 						},
 						{
 							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/flipkart/",
 							"product_image_name": "fashion.png",
 							"long_desc": "Fashion & Lifestyle Categories - New User , Existing User + Up to 6% Rewards",
-							"short_desc":"Fashion & Lifestyle Categories ",
+							"short_desc": "Fashion & Lifestyle Categories ",
 							"reward_value": "6%",
+							"reward_type": "percent",
+							"reward_method": "",
 							"campaign_guid": "1a332f59-155e-4c25-a44a-eaf0560e666e",
-							"dealtype": "campaign"
+							"dealtype": "campaign",
+							"show_details": [
+								{
+									"shopvia": [
+										{
+											"Flipkart website": "Flat 2.5% cashback",
+											"Flipkart App": "Flat 3.5% cashback"
+										}
+									],
+									"offer_terms": [
+										{
+											"Shop Online/In-Store": "Online",
+											"Cash Back": "3 - 5 days",
+											"Auto Cash": "No"
+										}
+									]
+								}
+							]
 						},
 						{
 							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/flipkart/",
 							"product_image_name": "largeappliances.png",
 							"long_desc": "Large Appliances ( Television, Refrigerators, Washing Machines & Air Conditioner) -New User, Existing User + Up to 1% Rewards",
-							"short_desc":"Large Appliances ",
+							"short_desc": "Large Appliances ",
 							"reward_value": "1%",
+							"reward_type": "percent",
+							"reward_method": "",
 							"campaign_guid": "31c9f2b0-68a6-44bf-a953-5f6a9acbbf11",
-							"dealtype": "campaign"
+							"dealtype": "campaign",
+							"show_details": [
+								{
+									"shopvia": [
+										{
+											"Flipkart website": "Flat 2.5% cashback",
+											"Flipkart App": "Flat 3.5% cashback"
+										}
+									],
+									"offer_terms": [
+										{
+											"Shop Online/In-Store": "Online",
+											"Cash Back": "3 - 5 days",
+											"Auto Cash": "No"
+										}
+									]
+								}
+							]
 						},
 						{
 							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/flipkart/",
 							"product_image_name": "grocery.png",
 							"long_desc": "Flipkart Quick Grocery - Existing User + Up to 1% Rewards",
-							"short_desc":"Flipkart Quick Grocery ",
+							"short_desc": "Flipkart Quick Grocery ",
 							"reward_value": "1%",
+							"reward_type": "percent",
+							"reward_method": "",
 							"campaign_guid": "402bab90-3f68-4f34-8417-88776b24ae71",
-							"dealtype": "campaign"
+							"dealtype": "campaign",
+							"show_details": [
+								{
+									"shopvia": [
+										{
+											"Flipkart website": "Flat 2.5% cashback",
+											"Flipkart App": "Flat 3.5% cashback"
+										}
+									],
+									"offer_terms": [
+										{
+											"Shop Online/In-Store": "Online",
+											"Cash Back": "3 - 5 days",
+											"Auto Cash": "No"
+										}
+									]
+								}
+							]
 						}
 					]
 				},
 				{
 					"top_header": "Flipkart deals",
 					"product_count": "13",
-					"show_details": [
+					"product_details": [
 						{
 							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/flipkart/",
 							"product_image_name": "electronics.png",
 							"long_desc": "Electronic Devices & Accessories (Mobile Protection, Power bank, Rest of Mobile Accessories,Gaming & Tablet, Laptop & Desktop)- New User + Up to 2% Rewards",
-							"short_desc":"Electronic Devices & Accessories",
+							"short_desc": "Electronic Devices & Accessories",
 							"reward_value": "2%",
+							"reward_type": "percent",
+							"reward_method": "",
 							"campaign_guid": "7fa5e987-b1b3-4405-a00f-1fe6c6b20364",
-							"dealtype": "campaign"
+							"dealtype": "campaign",
+							"show_details": [
+								{
+									"shopvia": [
+										{
+											"Flipkart website": "Flat 2.5% cashback",
+											"Flipkart App": "Flat 3.5% cashback"
+										}
+									],
+									"offer_terms": [
+										{
+											"Shop Online/In-Store": "Online",
+											"Cash Back": "3 - 5 days",
+											"Auto Cash": "No"
+										}
+									]
+								}
+							]
 						},
 						{
 							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/flipkart/",
 							"product_image_name": "electronicproduct.png",
 							"long_desc": "Electronic Devices & Accessories (Mobile Protection, Power bank, Rest of Mobile Accessories,Gaming & Tablet, Laptop & Desktop)- Existing User + Up to 2% Rewards",
-							"short_desc":"Electronic Devices & Accessories ",
+							"short_desc": "Electronic Devices & Accessories ",
 							"reward_value": "2%",
+							"reward_type": "percent",
+							"reward_method": "",
 							"campaign_guid": "98c71cd7-9b93-4e14-b2b5-b4fc58d3b4ab",
-							"dealtype": "campaign"
+							"dealtype": "campaign",
+							"show_details": [
+								{
+									"shopvia": [
+										{
+											"Flipkart website": "Flat 2.5% cashback",
+											"Flipkart App": "Flat 3.5% cashback"
+										}
+									],
+									"offer_terms": [
+										{
+											"Shop Online/In-Store": "Online",
+											"Cash Back": "3 - 5 days",
+											"Auto Cash": "No"
+										}
+									]
+								}
+							]
 						},
 						{
 							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/flipkart/",
 							"product_image_name": "largeappliances.png",
 							"long_desc": "Large Appliances - Existing User + Up to 1% Rewards",
-							"short_desc":"Large Appliances",
+							"short_desc": "Large Appliances",
 							"reward_value": "1%",
+							"reward_type": "percent",
+							"reward_method": "",
 							"campaign_guid": "98c71cd7-9b93-4e14-b2b5-b4fc58d3b4ab",
-							"dealtype": "campaign"
+							"dealtype": "campaign",
+							"show_details": [
+								{
+									"shopvia": [
+										{
+											"Flipkart website": "Flat 2.5% cashback",
+											"Flipkart App": "Flat 3.5% cashback"
+										}
+									],
+									"offer_terms": [
+										{
+											"Shop Online/In-Store": "Online",
+											"Cash Back": "3 - 5 days",
+											"Auto Cash": "No"
+										}
+									]
+								}
+							]
 						},
 						{
 							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/flipkart/",
 							"product_image_name": "books.png",
 							"long_desc": "Books & General Merchandise - Existing User + Up to 3% Rewards",
-							"short_desc":"Books & General Merchandise",
+							"short_desc": "Books & General Merchandise",
 							"reward_value": "3%",
+							"reward_type": "percent",
+							"reward_method": "",
 							"campaign_guid": "b97ccbc2-0852-4fab-8909-44777e198371",
-							"dealtype": "campaign"
+							"dealtype": "campaign",
+							"show_details": [
+								{
+									"shopvia": [
+										{
+											"Flipkart website": "Flat 2.5% cashback",
+											"Flipkart App": "Flat 3.5% cashback"
+										}
+									],
+									"offer_terms": [
+										{
+											"Shop Online/In-Store": "Online",
+											"Cash Back": "3 - 5 days",
+											"Auto Cash": "No"
+										}
+									]
+								}
+							]
 						},
 						{
 							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/flipkart/",
 							"product_image_name": "homeappliances.png",
 							"long_desc": "Small Home Appliances Air Cooler, Fan, Geyser, Room Heater, Hand Blender, Electric Cooker, Mixer Grinder,etc -Existing User + Up to 4% Rewards",
-							"short_desc":"Small Home Appliances",
+							"short_desc": "Small Home Appliances",
 							"reward_value": "4%",
+							"reward_type": "percent",
+							"reward_method": "",
 							"campaign_guid": "bf47fee7-59ed-4a67-ba5a-bb2e810d12d8",
-							"dealtype": "campaign"
+							"dealtype": "campaign",
+							"show_details": [
+								{
+									"shopvia": [
+										{
+											"Flipkart website": "Flat 2.5% cashback",
+											"Flipkart App": "Flat 3.5% cashback"
+										}
+									],
+									"offer_terms": [
+										{
+											"Shop Online/In-Store": "Online",
+											"Cash Back": "3 - 5 days",
+											"Auto Cash": "No"
+										}
+									]
+								}
+							]
 						},
 						{
 							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/flipkart/",
 							"product_image_name": "groceryitems.png",
 							"long_desc": "Home Decor, Kitchen & Dining Products, Pet Supplies, Hardware And Tools - New User + Up to 2% Rewards",
-							"short_desc":"Home Appliances",
+							"short_desc": "Home Appliances",
 							"reward_value": "2%",
+							"reward_type": "percent",
+							"reward_method": "",
 							"campaign_guid": "c18b1faa-a5e4-4bd8-83a2-2608b3136d0b",
-							"dealtype": "campaign"
+							"dealtype": "campaign",
+							"show_details": [
+								{
+									"shopvia": [
+										{
+											"Flipkart website": "Flat 2.5% cashback",
+											"Flipkart App": "Flat 3.5% cashback"
+										}
+									],
+									"offer_terms": [
+										{
+											"Shop Online/In-Store": "Online",
+											"Cash Back": "3 - 5 days",
+											"Auto Cash": "No"
+										}
+									]
+								}
+							]
 						},
 						{
 							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/flipkart/",
 							"product_image_name": "books.png",
 							"long_desc": "New User - Books & General Merchandise + Up to 4% Rewards",
-							"short_desc":"Books & General Merchandise",
+							"short_desc": "Books & General Merchandise",
 							"reward_value": "4%",
+							"reward_type": "percent",
+							"reward_method": "",
 							"campaign_guid": "ccf52a81-b636-443a-9d76-e0aaffa8555a",
-							"dealtype": "campaign"
+							"dealtype": "campaign",
+							"show_details": [
+								{
+									"shopvia": [
+										{
+											"Flipkart website": "Flat 2.5% cashback",
+											"Flipkart App": "Flat 3.5% cashback"
+										}
+									],
+									"offer_terms": [
+										{
+											"Shop Online/In-Store": "Online",
+											"Cash Back": "3 - 5 days",
+											"Auto Cash": "No"
+										}
+									]
+								}
+							]
 						},
 						{
 							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/flipkart/",
 							"product_image_name": "tables.png",
 							"long_desc": "Furnitures,Bed, Sofa, Shoe Cabinet, Bookshelf,Coffee Table, Office Study table etc - New User + Up to 4% Rewards",
-							"short_desc":"Furnitures",
+							"short_desc": "Furnitures",
 							"reward_value": "4%",
+							"reward_type": "percent",
+							"reward_method": "",
 							"campaign_guid": "d0af2199-8f84-4815-8d81-01a8b0aa6e30",
-							"dealtype": "campaign"
+							"dealtype": "campaign",
+							"show_details": [
+								{
+									"shopvia": [
+										{
+											"Flipkart website": "Flat 2.5% cashback",
+											"Flipkart App": "Flat 3.5% cashback"
+										}
+									],
+									"offer_terms": [
+										{
+											"Shop Online/In-Store": "Online",
+											"Cash Back": "3 - 5 days",
+											"Auto Cash": "No"
+										}
+									]
+								}
+							]
 						},
 						{
 							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/flipkart/",
 							"product_image_name": "groceryitems.png",
 							"long_desc": "Home Decor, Kitchen & Dining Products, Pet Supplies, Hardware And Tools - Existing User + Up to 2% Rewards",
-							"short_desc":"Home Appliances",
+							"short_desc": "Home Appliances",
 							"reward_value": "2%",
+							"reward_type": "percent",
+							"reward_method": "",
 							"campaign_guid": "da9c59af-0fb1-44bb-a710-8ee9b9a8ed76",
-							"dealtype": "campaign"
+							"dealtype": "campaign",
+							"show_details": [
+								{
+									"shopvia": [
+										{
+											"Flipkart website": "Flat 2.5% cashback",
+											"Flipkart App": "Flat 3.5% cashback"
+										}
+									],
+									"offer_terms": [
+										{
+											"Shop Online/In-Store": "Online",
+											"Cash Back": "3 - 5 days",
+											"Auto Cash": "No"
+										}
+									]
+								}
+							]
 						},
 						{
 							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/flipkart/",
 							"product_image_name": "grocery2.png",
 							"long_desc": "New User - Flipkart Quick Grocery + Up to 1% Rewards",
-							"short_desc":"Flipkart Quick Grocery",
+							"short_desc": "Flipkart Quick Grocery",
 							"reward_value": "1%",
+							"reward_type": "percent",
+							"reward_method": "",
 							"campaign_guid": "eeed8b44-3a19-4a26-80b4-1ab0da70dd0a",
-							"dealtype": "campaign"
+							"dealtype": "campaign",
+							"show_details": [
+								{
+									"shopvia": [
+										{
+											"Flipkart website": "Flat 2.5% cashback",
+											"Flipkart App": "Flat 3.5% cashback"
+										}
+									],
+									"offer_terms": [
+										{
+											"Shop Online/In-Store": "Online",
+											"Cash Back": "3 - 5 days",
+											"Auto Cash": "No"
+										}
+									]
+								}
+							]
 						},
 						{
 							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/flipkart/",
 							"product_image_name": "grocery2.png",
 							"long_desc": "Grocery- Flipkart Supermart - Existing User + Up to 1% Rewards",
-							"short_desc":"Grocery- Flipkart Supermart",
+							"short_desc": "Grocery- Flipkart Supermart",
 							"reward_value": "1%",
+							"reward_type": "percent",
+							"reward_method": "",
 							"campaign_guid": "f991f132-4099-4664-af43-515680d4b9d9",
-							"dealtype": "campaign"
+							"dealtype": "campaign",
+							"show_details": [
+								{
+									"shopvia": [
+										{
+											"Flipkart website": "Flat 2.5% cashback",
+											"Flipkart App": "Flat 3.5% cashback"
+										}
+									],
+									"offer_terms": [
+										{
+											"Shop Online/In-Store": "Online",
+											"Cash Back": "3 - 5 days",
+											"Auto Cash": "No"
+										}
+									]
+								}
+							]
 						},
 						{
 							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/flipkart/",
 							"product_image_name": "tables.png",
 							"long_desc": "Furnitures,Furnitures,Bed, Sofa, Shoe Cabinet, Bookshelf,Coffee Table, Office Study table etc - Existing User + Up to 3% Rewards",
-							"short_desc":"Furnitures",
+							"short_desc": "Furnitures",
 							"reward_value": "3%",
+							"reward_type": "percent",
+							"reward_method": "",
 							"campaign_guid": "fe4e05d0-bf2d-4651-808d-849e13d6d38f",
-							"dealtype": "campaign"
+							"dealtype": "campaign",
+							"show_details": [
+								{
+									"shopvia": [
+										{
+											"Flipkart website": "Flat 2.5% cashback",
+											"Flipkart App": "Flat 3.5% cashback"
+										}
+									],
+									"offer_terms": [
+										{
+											"Shop Online/In-Store": "Online",
+											"Cash Back": "3 - 5 days",
+											"Auto Cash": "No"
+										}
+									]
+								}
+							]
 						},
 						{
 							"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/flipkart/",
 							"product_image_name": "",
 							"long_desc": "EOSS Sale is live - 60-90% off on Christmas Edition + Up to 6% Rewards",
-							"short_desc":"EOSS Sale Christmas Edition",
+							"short_desc": "EOSS Sale Christmas Edition",
 							"reward_value": "6%",
+							"reward_type": "percent",
+							"reward_method": "",
 							"campaign_guid": "15280536-9f3f-46ce-97b7-a44fceb0e5e7",
-							"dealtype": "offer"
+							"dealtype": "offer",
+							"show_details": [
+								{
+									"shopvia": [
+										{
+											"Flipkart website": "Flat 2.5% cashback",
+											"Flipkart App": "Flat 3.5% cashback"
+										}
+									],
+									"offer_terms": [
+										{
+											"Shop Online/In-Store": "Online",
+											"Cash Back": "3 - 5 days",
+											"Auto Cash": "No"
+										}
+									]
+								}
+							]
 						}
 					]
 				}

@@ -25,9 +25,12 @@
 			"show_details": [
 				{
 					"Shop Online/In-Store": "Online",
-					"Cash Back": "3 - 5 days",
-					"Auto Cash": "Yes",
-					"Auto Cash1": "No"
+					"Cashback Tracking": "48 hours",
+					"Cashback Approval": "3-5 days",
+					"Maximum Cashback": "Rs.20",
+					"Minimum Purchase ": "Rs.500",
+					"Maximum Purchase": "N/A",
+					"Existing User": "Not Eligible"
 				}
 			],
 			"show_details_faq": [
@@ -56,8 +59,12 @@
 			"show_details": [
 				{
 					"Shop Online/In-Store": "Online",
-					"Cash Back": "3 - 5 days",
-					"Auto Cash": "No"
+					"Cashback Tracking": "48 hours",
+					"Cashback Approval": "3-5 days",
+					"Maximum Cashback": "Rs.20",
+					"Minimum Purchase ": "Rs.500",
+					"Maximum Purchase": "N/A",
+					"Existing User": "Not Eligible"
 				}
 			],
 			"show_details_faq": [

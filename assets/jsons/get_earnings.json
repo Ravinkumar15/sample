@@ -9,8 +9,8 @@
 			"store_name": "Amazon",
 			"status": "Approved",
 			"reward_amount": "₹100.00",
-			"image_name": "earnings_icon_.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"iconimage_name": "earnings_icon_.png",
+			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
 			"earnings_details": [
 				{
 					"Purchased on ": ": 01-Jan-2022",
@@ -20,7 +20,9 @@
 			"show_details": [
 				{
 					"reward_desc": "Congrats, You earned ₹100.00 cashback on your amazon purchase",
-					"cashback_details": [
+					"storeimagename":"amazonindia_small.png",
+					"storeimageurl":"https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
+					"reward_details": [
 						{
 							"Type": "Sale",
 							"Store": "Amazon",
@@ -48,8 +50,8 @@
 			"store_name": "Amazon",
 			"status": "Pending",
 			"reward_amount": "₹50.00",
-			"image_name": "earnings_icon_.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"iconimage_name": "earnings_icon_.png",
+			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
 			"earnings_details": [
 				{
 					"Purchased on ": ": 01-Jan-2022",
@@ -59,12 +61,17 @@
 			"show_details": [
 				{
 					"reward_desc": "You earned ₹50.00 cashback on your amazon purchase",
+					"storeimagename":"amazonindia_small.png",
+					"storeimageurl":"https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
 					"reward_faq": [
 						{
 							"Why is it pending ?": "We are confirming your purchase with the retailer or waiting for the item's return period to over."
 						}
+						
 					],
-					"cashback_details": [
+					"reward_note":"cashback amount will change If you cancel or return any items",
+					
+					"reward_details": [
 						{
 							"Type": "Sale",
 							"Store": "Amazon",
@@ -92,8 +99,8 @@
 			"store_name": "Amazon",
 			"status": "Cancelled",
 			"reward_amount": "₹100.00",
-			"image_name": "earnings_icon_.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"iconimage_name": "earnings_icon_.png",
+			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
 			"earnings_details": [
 				{
 					"Purchased on ": ": 01-Jan-2022",
@@ -103,12 +110,14 @@
 			"show_details": [
 				{
 					"reward_desc": "₹100.00",
+					"storeimagename":"amazonindia_small.png",
+					"storeimageurl":"https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
 					"reward_faq": [
 						{
 							"Why is it cancelled ?": "Your order has been either returned or canceled"
 						}
 					],
-					"cashback_details": [
+					"reward_details": [
 						{
 							"Type": "Sale",
 							"Store": "Amazon",
@@ -127,8 +136,8 @@
 			"store_name": "9345041329",
 			"status": "Approved",
 			"reward_amount": "₹10.00",
-			"image_name": "earnings_icon_.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"iconimage_name": "earnings_icon_.png",
+			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
 			"earnings_details": [
 				{
 					"Recharged on ": ": 24-DEC-2022",
@@ -138,7 +147,9 @@
 			"show_details": [
 				{
 					"reward_desc": "Congrats, You earned ₹10.00 cashback on your mobile recharge",
-					"cashback_details": [
+					"storeimagename":"earnings_icon_.png",
+					"storeimageurl":"https://ravinkumar15.github.io/dev/assets/images/earnings/",
+					"reward_details": [
 						{
 							"Type": "Mobile Recharge",
 							"Number": "9790410222",
@@ -170,8 +181,8 @@
 			"store_name": "Referral Bonus",
 			"status": "Approved",
 			"reward_amount": "₹30.00",
-			"image_name": "refer_icon.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"iconimage_name": "refer_icon.png",
+			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
 			"earnings_details": [
 				{
 					"Refferred on ": ": 22-DEC-2022",
@@ -181,7 +192,9 @@
 			"show_details": [
 				{
 					"reward_desc": "Congrats, You earned ₹30.00 reward on your referra",
-					"cashback_details": [
+					"storeimagename":"refer_icon.png",
+					"storeimageurl":"https://ravinkumar15.github.io/dev/assets/images/earnings/",
+					"reward_details": [
 						{
 							"Type": "Referral",
 							"Email id": "abcdefgh123@gmail.com",
@@ -202,8 +215,8 @@
 			"store_name": "Referral Bonus",
 			"status": "Pending",
 			"reward_amount": "₹30.00",
-			"image_name": "refer_icon.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"iconimage_name": "refer_icon.png",
+			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
 			"earnings_details": [
 				{
 					"Refferred on ": ": 22-DEC-2022",
@@ -213,12 +226,14 @@
 			"show_details": [
 				{
 					"reward_desc": "You earned ₹30.00 reward on your referral",
+					"storeimagename":"refer_icon.png",
+					"storeimageurl":"https://ravinkumar15.github.io/dev/assets/images/earnings/",
 					"reward_faq": [
 						{
 							"Why is it Pending?": "Your friend hasn�t made his first purchase through CazhOn yet."
 						}
 					],
-					"cashback_details": [
+					"reward_details": [
 						{
 							"Type": "Referral",
 							"Email id": "abcdefgh123@gmail.com",
@@ -239,8 +254,8 @@
 			"store_name": "Thunivu Movie Contest",
 			"status": "Approved",
 			"reward_amount": "₹250.00",
-			"image_name": "earnings_icon_.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"iconimage_name": "earnings_icon_.png",
+			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
 			"earnings_details": [
 				{
 					"Earned on": ": 24-DEC-2022"
@@ -249,12 +264,14 @@
 			"show_details": [
 				{
 					"reward_desc": "Congrats, You earned ₹250.00 reward on a giveaway contest",
+					"storeimagename":"amazonindia_small.png",
+					"storeimageurl":"https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
 					"reward_faq": [
 						{
 							"How to use the coupon code ?": ""
 						}
 					],
-					"cashback_details": [
+					"reward_details": [
 						{
 							"Type": "Giveaway",
 							"Status": "Pending",

@@ -1,24 +1,24 @@
 {
 	"food_deals": [
 		{
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/white_logo/",
-			"image_name": "Dominoswhitelogo.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/white_logo/",
+			"storeimage_name": "Dominoswhitelogo.png",
 			"category_desc": "Instant germ kill expert",
 			"cash_back_desc": "Up to 10% off",
 			"store_mdid": "",
 			"storecampaign_guid": "",
-			"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/food_categories/",
-			"product_image_name": "pizza.jpg"
+			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/food_categories/",
+			"productimage_name": "pizza.jpg"
 		},
 		{
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/white_logo/",
-			"image_name": "swiggywhitelogo.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/white_logo/",
+			"storeimage_name": "swiggywhitelogo.png",
 			"category_desc": "Instant germ kill expert",
 			"cash_back_desc": "Up to 20% off",
 			"store_mdid": "",
 			"storecampaign_guid": "",
-			"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/food_categories/",
-			"product_image_name": "chicken-biryani.jpg"
+			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/food_categories/",
+			"productimage_name": "chicken-biryani.jpg"
 		}
 	]
 }

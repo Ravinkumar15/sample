@@ -3,57 +3,57 @@
 		{
 			"notification_title": "CazhOn Days Deal",
 			"notification_message": "This 24-hour deal is coming in Hot! Browse our Deal of the Day.",
-			"image_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
-			"image_name": "wow_wednesday.jpg",
+			"notificationimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
+			"notificationimage_name": "wow_wednesday.jpg",
 			"unread_msg_count":"7"
 		},
 		{
 			"notification_title": "CazhOn Giveaway",
 			"notification_message": "Congrats! You won a giveway. Please contact our Team at contact@cazhon.com",
-			"image_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
-			"image_name": "cazhon_giveaway.jpg",
+			"notificationimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
+			"notificationimage_name": "cazhon_giveaway.jpg",
 			"unread_msg_count":"7"
 		},
 		{
 			"notification_title": "Super Cool Cashback",
 			"notification_message": "Congrats! You won super cool cashback on the shopping trip you made. Please visit myearnings/shopping trip",
-			"image_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
-			"image_name": "cashback_approved.jpg",
+			"notificationimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
+			"notificationimage_name": "cashback_approved.jpg",
 			"unread_msg_count":"7"
 		},
 		{
 			"notification_title": "Super Cool Cashback",
 			"notification_message": "Congrats! You won super cool cashback on the shopping trip you made. Please visit myearnings/shopping trip",
-			"image_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
-			"image_name": "cashback_approved.jpg",
+			"notificationimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
+			"notificationimage_name": "cashback_approved.jpg",
 			"unread_msg_count":"7"
 		},
 		{
 			"notification_title": "CazhOn Giveaway",
 			"notification_message": "Congrats! You won a giveway. Please contact our Team at contact@cazhon.com",
-			"image_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
-			"image_name": "cazhon_giveaway.jpg",
+			"notificationimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
+			"notificationimage_name": "cazhon_giveaway.jpg",
 			"unread_msg_count":"7"
 		},
 		{
 			"notification_title": "Super Cool Cashback",
 			"notification_message": "Congrats! You won super cool cashback on the shopping trip you made. Please visit myearnings/shopping trip",
-			"image_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
-			"image_name": "cashback_approved.jpg",
+			"notificationimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
+			"notificationimage_name": "cashback_approved.jpg",
 			"unread_msg_count":"7"
 		},
 		{
 			"notification_title": "Referral Bonus",
 			"notification_message": "Hurray!! You earned Referral Cashback by referring your Friend",
-			"image_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
-			"image_name": "referral_approved.jpg",
+			"notificationimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
+			"notificationimage_name": "referral_approved.jpg",
 			"unread_msg_count":"7"
 		},
 		{
 			"notification_title": "Welcome to CazhOn",
 			"notification_message": "We are happy to have you as our valuable member of the CazhOn Family",
-			"image_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
-			"image_name": "welcome_bonus.jpg",
+			"notificationimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
+			"notificationimage_name": "welcome_bonus.jpg",
 			"unread_msg_count":"7"
 		}
 	]

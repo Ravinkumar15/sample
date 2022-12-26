@@ -1,96 +1,96 @@
 {
 	"topcashback_stores": [
 		{
-			"image_name": "flipkartwhitelogo.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
+			"storeimage_name": "flipkartwhitelogo.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
 			"store_mdid": "",
 			"storecampaign_guid": "",
 			"cash_back_desc": "Up to 8% off",
 			"color_code": "#107BD4"
 		},
 		{
-			"image_name": "amazonwhitelogo.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
+			"storeimage_name": "amazonwhitelogo.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
 			"store_mdid": "",
 			"storecampaign_guid": "",
 			"cash_back_desc": "Up to 9% off",
 			"color_code": "#000000"
 		},
 		{
-			"image_name": "meeshowhitelogo.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
+			"storeimage_name": "meeshowhitelogo.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
 			"store_mdid": "",
 			"storecampaign_guid": "",
 			"cash_back_desc": "Up to 11% off",
 			"color_code": "#99136C"
 		},
 		{
-			"image_name": "myntrawhitelogo.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
+			"storeimage_name": "myntrawhitelogo.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
 			"store_mdid": "",
 			"storecampaign_guid": "",
 			"cash_back_desc": "Up to 6% off",
 			"color_code": "#7C210B"
 		},
 		{
-			"image_name": "Dominoswhitelogo.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
+			"storeimage_name": "Dominoswhitelogo.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
 			"store_mdid": "",
 			"storecampaign_guid": "",
 			"cash_back_desc": "Up to ₹22 off",
 			"color_code": "#006491"
 		},
 		{
-			"image_name": "beardowhitelogo.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
+			"storeimage_name": "beardowhitelogo.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
 			"store_mdid": "",
 			"storecampaign_guid": "",
 			"cash_back_desc": "Up to 14% off",
 			"color_code": "#000000"
 		},
 		{
-			"image_name": "snackiblewhitelogo.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
+			"storeimage_name": "snackiblewhitelogo.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
 			"store_mdid": "",
 			"storecampaign_guid": "",
 			"cash_back_desc": "Up to 11% off",
 			"color_code": "#06436E"
 		},
 		{
-			"image_name": "swiggywhitelogo.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
+			"storeimage_name": "swiggywhitelogo.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
 			"store_mdid": "",
 			"storecampaign_guid": "",
 			"cash_back_desc": "Up to ₹22 off",
 			"color_code": "#D16811"
 		},
 		{
-			"image_name": "ajiowhitelogo.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
+			"storeimage_name": "ajiowhitelogo.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
 			"store_mdid": "",
 			"storecampaign_guid": "",
 			"cash_back_desc": "Up to 8% off",
 			"color_code": "#2E4255"
 		},
 		{
-			"image_name": "Lakmewhitelogo.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
+			"storeimage_name": "Lakmewhitelogo.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
 			"store_mdid": "",
 			"storecampaign_guid": "",
 			"cash_back_desc": "Up to 6% off",
 			"color_code": "#000000"
 		},
 		{
-			"image_name": "pizzahutwhitelogo.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
+			"storeimage_name": "pizzahutwhitelogo.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
 			"store_mdid": "",
 			"storecampaign_guid": "",
 			"cash_back_desc": "Up to ₹22 off",
 			"color_code": "#E61B23"
 		},
 		{
-			"image_name": "biotiquewhitelogo.png",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
+			"storeimage_name": "biotiquewhitelogo.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/images/white_logo/",
 			"store_mdid": "",
 			"storecampaign_guid": "",
 			"cash_back_desc": "Up to 8% off",

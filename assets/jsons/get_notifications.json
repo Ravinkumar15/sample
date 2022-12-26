@@ -1,34 +1,60 @@
 {
 	"notiifications": [
 		{
-			"image_url": "",
-			"image_name": "",
-			"cash_back_desc": "Min 25% off on Silver beauty Anniversary",
-			"store_name": "Health and Glow | Silver beauty Anniversary"
+			"notification_title": "CazhOn Days Deal",
+			"notification_message": "This 24-hour deal is coming in Hot! Browse our Deal of the Day.",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
+			"image_name": "wow_wednesday.jpg",
+			"unread_msg_count":"7"
 		},
 		{
-			"image_url": "",
-			"image_name": "",
-			"cash_back_desc": "Save upto 5%  in each purchase",
-			"store_name": "Amazon India Big Savings day"
+			"notification_title": "CazhOn Giveaway",
+			"notification_message": "Congrats! You won a giveway. Please contact our Team at contact@cazhon.com",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
+			"image_name": "cazhon_giveaway.jpg",
+			"unread_msg_count":"7"
 		},
 		{
-			"image_url": "",
-			"image_name": "",
-			"cash_back_desc": "Save upto 20% on each category",
-			"store_name": "Flipkart Big Billion days"
+			"notification_title": "Super Cool Cashback",
+			"notification_message": "Congrats! You won super cool cashback on the shopping trip you made. Please visit myearnings/shopping trip",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
+			"image_name": "cashback_approved.jpg",
+			"unread_msg_count":"7"
 		},
 		{
-			"image_url": "",
-			"image_name": "",
-			"cash_back_desc": "60% Off on Boat bluetooth headphones, Air podes",
-			"store_name": "Boat upto 60% Off"
+			"notification_title": "Super Cool Cashback",
+			"notification_message": "Congrats! You won super cool cashback on the shopping trip you made. Please visit myearnings/shopping trip",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
+			"image_name": "cashback_approved.jpg",
+			"unread_msg_count":"7"
 		},
 		{
-			"image_url": "",
-			"image_name": "",
-			"cash_back_desc": "25% Off on beauty products ",
-			"store_name": "Kapiva upto 25% Off"
+			"notification_title": "CazhOn Giveaway",
+			"notification_message": "Congrats! You won a giveway. Please contact our Team at contact@cazhon.com",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
+			"image_name": "cazhon_giveaway.jpg",
+			"unread_msg_count":"7"
+		},
+		{
+			"notification_title": "Super Cool Cashback",
+			"notification_message": "Congrats! You won super cool cashback on the shopping trip you made. Please visit myearnings/shopping trip",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
+			"image_name": "cashback_approved.jpg",
+			"unread_msg_count":"7"
+		},
+		{
+			"notification_title": "Referral Bonus",
+			"notification_message": "Hurray!! You earned Referral Cashback by referring your Friend",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
+			"image_name": "referral_approved.jpg",
+			"unread_msg_count":"7"
+		},
+		{
+			"notification_title": "Welcome to CazhOn",
+			"notification_message": "We are happy to have you as our valuable member of the CazhOn Family",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
+			"image_name": "welcome_bonus.jpg",
+			"unread_msg_count":"7"
 		}
 	]
 }

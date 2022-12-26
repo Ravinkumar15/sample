@@ -1,8 +1,8 @@
 {
 	"trip_history": [
 		{
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
-			"image_name": "myntra_small.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
+			"storeimage_name": "myntra_small.png",
 			"trip_id": "116829",
 			"cashback_amount": "₹0.00",
 			"status": "Offer activated",
@@ -18,8 +18,8 @@
 			]
 		},
 		{
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
-			"image_name": "flipkart_small.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
+			"storeimage_name": "flipkart_small.png",
 			"trip_id": "116828",
 			"cashback_amount": "₹75.00",
 			"status": "Approved",
@@ -35,8 +35,8 @@
 			]
 		},
 		{
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
-			"image_name": "amazon_small.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
+			"storeimage_name": "amazon_small.png",
 			"trip_id": "116827",
 			"cashback_amount": "₹0.00",
 			"status": "No cashback",
@@ -52,8 +52,8 @@
 			]
 		},
 		{
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
-			"image_name": "myntra_small.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
+			"storeimage_name": "myntra_small.png",
 			"trip_id": "116826",
 			"cashback_amount": "₹250.00",
 			"status": "Approved",
@@ -69,8 +69,8 @@
 			]
 		},
 		{
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
-			"image_name": "ShopCluesLogo.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
+			"storeimage_name": "ShopCluesLogo.png",
 			"trip_id": "116825",
 			"cashback_amount": "₹80.00",
 			"status": "Approved",
@@ -86,8 +86,8 @@
 			]
 		},
 		{
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
-			"image_name": "Meesho_small.png",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
+			"storeimage_name": "Meesho_small.png",
 			"trip_id": "116824",
 			"cashback_amount": "₹0.00",
 			"status": "No cashback",

@@ -8,8 +8,8 @@
 			"image_name": "airasia_small.png",
 			"store_type": "travel",
 			"cash_back_desc": "₹117",
-			"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/tavel_categories/",
-			"product_image_name": "flight1.png",
+			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/tavel_categories/",
+			"productimage_name": "flight1.png",
 			"usertype": "New & existing user"
 		},
 		{
@@ -20,8 +20,8 @@
 			"image_name": "makemytrip_small.png",
 			"store_type": "travel",
 			"cash_back_desc": "₹105",
-			"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/tavel_categories/",
-			"product_image_name": "bus.jpg",
+			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/tavel_categories/",
+			"productimage_name": "bus.jpg",
 			"usertype": "New & existing user"
 		},
 		{
@@ -32,8 +32,8 @@
 			"image_name": "rapidobiketaxi_small.png",
 			"store_type": "travel",
 			"cash_back_desc": "9%",
-			"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/tavel_categories/",
-			"product_image_name": "scooter.png",
+			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/tavel_categories/",
+			"productimage_name": "scooter.png",
 			"usertype": "New user"
 		},
 		{
@@ -44,8 +44,8 @@
 			"image_name": "goibibo_small.png",
 			"store_type": "travel",
 			"cash_back_desc": "77%",
-			"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/tavel_categories/",
-			"product_image_name": "flight1.png",
+			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/tavel_categories/",
+			"productimage_name": "flight1.png",
 			"usertype": "New & existing user"
 		},
 		{
@@ -56,8 +56,8 @@
 			"image_name": "blinctrip_small.png",
 			"store_type": "travel",
 			"cash_back_desc": "₹183",
-			"product_image_url": "https://ravinkumar15.github.io/dev/assets/images/tavel_categories/",
-			"product_image_name": "flight.png",
+			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/tavel_categories/",
+			"productimage_name": "flight.png",
 			"usertype": "New user"
 		}
 	]

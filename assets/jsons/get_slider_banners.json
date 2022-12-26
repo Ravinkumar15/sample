@@ -3,24 +3,24 @@
 		{
 			"store_mdid": " ",
 			"storecampaign_guid": " ",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/slider_banner/",
-			"image_name": "beautybanner2.png",
+			"bannerimage_url": "https://ravinkumar15.github.io/dev/assets/images/slider_banner/",
+			"bannerimage_name": "beautybanner2.png",
 			"store_mdname": " ",
 			"dealtype": "campaign"
 		},
 		{
 			"store_mdid": " ",
 			"storecampaign_guid": " ",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/slider_banner/",
-			"image_name": "beautybanner.png",
+			"bannerimage_url": "https://ravinkumar15.github.io/dev/assets/images/slider_banner/",
+			"bannerimage_name": "beautybanner.png",
 			"store_mdname": " ",
 			"dealtype": "campaign"
 		},
 		{
 			"store_mdid": " ",
 			"storecampaign_guid": " ",
-			"image_url": "https://ravinkumar15.github.io/dev/assets/images/slider_banner/",
-			"image_name": "healthbanner.png",
+			"bannerimage_url": "https://ravinkumar15.github.io/dev/assets/images/slider_banner/",
+			"bannerimage_name": "healthbanner.png",
 			"store_mdname": " ",
 			"dealtype": "campaign"
 		}

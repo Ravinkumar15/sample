@@ -1,0 +1,308 @@
+{"earnings":[{
+	"total_lifetime_reward": "₹1060.00",
+	"total_available_reward": "₹80.00",
+	"total_pending_reward": "₹30.00",
+	"referral_approved_reward": "₹500.00",
+	"referral_pending_reward": "₹150.00",
+	"earnings_history": [
+		{
+			"store_name": "Amazon",
+			"status": "Approved",
+			"reward_amount": "₹100.00",
+			"iconimage_name": "earnings_icon_.png",
+			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"earnings_details": [
+				{
+					"Purchased on ": ": 01-Jan-2022",
+					"Earned on": ": 05-Jan-2022"
+				}
+			],
+			"show_details": [
+				{
+					"reward_desc": "Congrats, You earned ₹100.00 cashback on your amazon purchase",
+					"storeimagename":"amazonindia_small.png",
+					"storeimageurl":"https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
+					"reward_details": [
+						{
+							"Type": "Sale",
+							"Store": "Amazon",
+							"Spent": "₹2500.00",
+							"Cashback": "₹100.00",
+							"Status ": "Approved",
+							"Trip Id": "1235445",
+							"Purchase on": "24-DEC-2022",
+							"Earned on": "24-DEC-2022",
+							"Redeemable": "Yes",
+							"Claim Submitted": "Yes"
+						}
+					],
+					"claim_details": [
+						{
+							"Issue reported": "24-DEC-2022",
+							"Issue resolved": "24-DEC-2022",
+							"Resolution ": " Cashback Approved"
+						}
+					]
+				}
+			]
+		},
+		{
+			"store_name": "Amazon",
+			"status": "Pending",
+			"reward_amount": "₹50.00",
+			"iconimage_name": "earnings_icon_.png",
+			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"earnings_details": [
+				{
+					"Purchased on ": ": 01-Jan-2022",
+					"Earned on": ": 05-Jan-2022"
+				}
+			],
+			"show_details": [
+				{
+					"reward_desc": "You earned ₹50.00 cashback on your amazon purchase",
+					"storeimagename":"amazonindia_small.png",
+					"storeimageurl":"https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
+					"reward_faq": [
+						{
+							"Why is it pending ?": "We are confirming your purchase with the retailer or waiting for the item's return period to over."
+						}
+						
+					],
+					"reward_note":"cashback amount will change If you cancel or return any items",
+					
+					"reward_details": [
+						{
+							"Type": "Sale",
+							"Store": "Amazon",
+							"Spent": "₹2500.00",
+							"Cashback": "₹50.00",
+							"Status ": "Pending",
+							"Trip Id": "1235445",
+							"Purchase on": "24-DEC-2022",
+							"Expected by": "25-DEC-2022",
+							"Redeemable": "Yes",
+							"Claim Submitted": "Yes"
+						}
+					],
+					"claim_details": [
+						{
+							"Issue reported": "24-DEC-2022",
+							"Issue resolved": "24-DEC-2022",
+							"Resolution ": " Cashback Approved"
+						}
+					]
+				}
+			]
+		},
+		{
+			"store_name": "Amazon",
+			"status": "Cancelled",
+			"reward_amount": "₹100.00",
+			"iconimage_name": "earnings_icon_.png",
+			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"earnings_details": [
+				{
+					"Purchased on ": ": 01-Jan-2022",
+					"Earned on": ": 05-Jan-2022"
+				}
+			],
+			"show_details": [
+				{
+					"reward_desc": "₹100.00",
+					"storeimagename":"amazonindia_small.png",
+					"storeimageurl":"https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
+					"reward_faq": [
+						{
+							"Why is it cancelled ?": "Your order has been either returned or canceled"
+						}
+					],
+					"reward_details": [
+						{
+							"Type": "Sale",
+							"Store": "Amazon",
+							"Spent": "₹2500.00",
+							"Cashback": "₹100.00",
+							"Status ": "Cancelled",
+							"Trip Id": "1235445",
+							"Purchase on": "24-DEC-2022",
+							"Cancelled on": "29-DEC-2022"
+						}
+					]
+				}
+			]
+		},
+		{
+			"store_name": "9345041329",
+			"status": "Approved",
+			"reward_amount": "₹10.00",
+			"iconimage_name": "earnings_icon_.png",
+			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"earnings_details": [
+				{
+					"Recharged on ": ": 24-DEC-2022",
+					"Earned on": ": 24-DEC-2022"
+				}
+			],
+			"show_details": [
+				{
+					"reward_desc": "Congrats, You earned ₹10.00 cashback on your mobile recharge",
+					"storeimagename":"earnings_icon_.png",
+					"storeimageurl":"https://ravinkumar15.github.io/dev/assets/images/earnings/",
+					"reward_details": [
+						{
+							"Type": "Mobile Recharge",
+							"Number": "9790410222",
+							"Operator": "Airtel",
+							"Circle": "TamilNadu",
+							"Spent ": "₹2500.00",
+							"Cashback": "₹10.00",
+							"Status": "Approved",
+							"Request Id ": "1235445",
+							"Requested on": "01-JAN-2023",
+							"Recharged on": "01-JAN-2023",
+							"Redeemable": "Yes",
+							"Claim Submitted": "No"
+						}
+					],
+					"claim_details": [
+						{
+							"Id": "123455",
+							"Talktime": "₹22.00",
+							"Validity ": "28 days",
+							"Cashback": "5%",
+							"Description": "Enjoy TRULY unlimited Local, STD & Roaming calls on any network, 2.5GB data per day, 100 National SMS/day for 28 days --Disney+ Hotstar Mobile for 3 months--Apollo 24--7 Circle:3 Months,at No Cost--Get Rs -- 100 cashback on FASTag--Free Hellotunes--Wynk Music"
+						}
+					]
+				}
+			]
+		},
+		{
+			"store_name": "Referral Bonus",
+			"status": "Approved",
+			"reward_amount": "₹30.00",
+			"iconimage_name": "refer_icon.png",
+			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"earnings_details": [
+				{
+					"Refferred on ": ": 22-DEC-2022",
+					"Earned on": ": 24-DEC-2022"
+				}
+			],
+			"show_details": [
+				{
+					"reward_desc": "Congrats, You earned ₹30.00 reward on your referra",
+					"storeimagename":"refer_icon.png",
+					"storeimageurl":"https://ravinkumar15.github.io/dev/assets/images/earnings/",
+					"reward_details": [
+						{
+							"Type": "Referral",
+							"Email id": "abcdefgh123@gmail.com",
+							"Mobile Number": "9345041329",
+							"Status": "Approved",
+							"Referral Id ": "1235445",
+							"Reward": "₹30.00",
+							"Joined on": "21-DEC-2023",
+							"Earned on": "01-JAN-2023",
+							"Redeemable": "Yes",
+							"Claim Submitted": "No"
+						}
+					]
+				}
+			]
+		},
+		{
+			"store_name": "Referral Bonus",
+			"status": "Pending",
+			"reward_amount": "₹30.00",
+			"iconimage_name": "refer_icon.png",
+			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"earnings_details": [
+				{
+					"Refferred on ": ": 22-DEC-2022",
+					"Earned on": ": 24-DEC-2022"
+				}
+			],
+			"show_details": [
+				{
+					"reward_desc": "You earned ₹30.00 reward on your referral",
+					"storeimagename":"refer_icon.png",
+					"storeimageurl":"https://ravinkumar15.github.io/dev/assets/images/earnings/",
+					"reward_faq": [
+						{
+							"Why is it Pending?": "Your friend hasn�t made his first purchase through CazhOn yet."
+						}
+					],
+					"reward_details": [
+						{
+							"Type": "Referral",
+							"Email id": "abcdefgh123@gmail.com",
+							"Mobile Number": "9345041329",
+							"Status": "Pending",
+							"Referral Id ": "1235445",
+							"Reward": "₹30.00",
+							"Joined on": "21-DEC-2023",
+							"Earned on": "-",
+							"Redeemable": "Yes",
+							"Claim Submitted": "No"
+						}
+					]
+				}
+			]
+		},
+		{
+			"store_name": "Thunivu Movie Contest",
+			"status": "Approved",
+			"reward_amount": "₹250.00",
+			"iconimage_name": "earnings_icon_.png",
+			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"earnings_details": [
+				{
+					"Earned on": ": 24-DEC-2022"
+				}
+			],
+			"show_details": [
+				{
+					"reward_desc": "Congrats, You earned ₹250.00 reward on a giveaway contest",
+					"storeimagename":"amazonindia_small.png",
+					"storeimageurl":"https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
+					"reward_faq": [
+						{
+							"How to use the coupon code ?": ""
+						}
+					],
+					"reward_details": [
+						{
+							"Type": "Giveaway",
+							"Status": "Pending",
+							"Giveaway Id ": "1235445",
+							"Coupon Code":" XXXXX1234555",
+							"Coupon Type": "Movie Coupon",
+							"Vendor ": "bookmyshow.com",
+							"Value ":" ₹250.00",
+							"Earned on": "11-JAN-2023",
+							"Redeemable": "No",
+							"Claim Submitted": "No"
+						}
+					],
+					"claim_details": [
+						{
+							"Id": "123455",
+							"Name": "Thunivu Movie Contest",
+							"Start Date": "25-DEC-2022",
+							"End Date": "08-JAN-2022",
+							"Result Date": "09-JAN-2022",
+							"Reward":" ₹100 Per Winner",
+							"Description": "Thunivu movie giveaway contest, 500 users will be selected if they complete 3 successful transactions in one week",
+						"Learn more about the contest here":"https://www.blog.cazhon.com"
+						}
+					]
+				}
+			]
+		}
+	]
+}
+]}
+			
+	
+	

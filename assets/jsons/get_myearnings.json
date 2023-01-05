@@ -20,7 +20,7 @@
 						}
 					,
 					"show_details": 
-						{
+				[{
 							"reward_desc": "Congrats, You earned ₹100.00 cashback on your amazon purchase",
 							"storeimagename": "amazonindia_small.png",
 							"storeimageurl": "https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
@@ -45,7 +45,7 @@
 									"Resolution ": " Cashback Approved"
 								}
 							
-						}
+						}]
 					
 				}
 			]

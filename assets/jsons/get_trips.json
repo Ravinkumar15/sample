@@ -3,9 +3,9 @@
 		{
 			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
 			"storeimage_name": "myntra_small.png",
-			"trip_id": "116829",
+			"store_name": "Myntra",
 			"cashback_amount": "₹0.00",
-			"status": "Offer activated",
+			"status": "Approvedd",
 			"activated_on": "2 day(s) ago",
 			"trip_details": [
 				{
@@ -20,7 +20,7 @@
 		{
 			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
 			"storeimage_name": "flipkart_small.png",
-			"trip_id": "116828",
+			"store_name": "Flipkart",
 			"cashback_amount": "₹75.00",
 			"status": "Approved",
 			"activated_on": "5 day(s) ago",
@@ -37,7 +37,7 @@
 		{
 			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
 			"storeimage_name": "amazon_small.png",
-			"trip_id": "116827",
+			"store_name": "Amazon",
 			"cashback_amount": "₹0.00",
 			"status": "No cashback",
 			"activated_on": "7 day(s) ago",
@@ -54,7 +54,7 @@
 		{
 			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
 			"storeimage_name": "myntra_small.png",
-			"trip_id": "116826",
+			"store_name": "Myntra",
 			"cashback_amount": "₹250.00",
 			"status": "Approved",
 			"activated_on": "12 day(s) ago",
@@ -71,7 +71,7 @@
 		{
 			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
 			"storeimage_name": "ShopCluesLogo.png",
-			"trip_id": "116825",
+			"store_name": "ShopClues",
 			"cashback_amount": "₹80.00",
 			"status": "Approved",
 			"activated_on": "15 day(s) ago",
@@ -88,7 +88,7 @@
 		{
 			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
 			"storeimage_name": "Meesho_small.png",
-			"trip_id": "116824",
+			"store_name": "Meesho",
 			"cashback_amount": "₹0.00",
 			"status": "No cashback",
 			"activated_on": "18 day(s) ago",

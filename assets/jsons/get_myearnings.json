@@ -47,7 +47,55 @@
 							
 						}]
 					
+				},{
+			"store_name": "Amazon",
+			"status": "Pending",
+			"reward_amount": "₹50.00",
+			"iconimage_name": "earnings_icon_.png",
+			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"earnings_details": [
+				{
+					"Purchased on ": ": 01-Jan-2022",
+					"Earned on": ": 05-Jan-2022"
 				}
+			],
+			"show_details": 
+				{
+					"reward_desc": "You earned ₹50.00 cashback on your amazon purchase",
+					"storeimagename":"amazonindia_small.png",
+					"storeimageurl":"https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
+					"reward_faq": [
+						{
+							"Why is it pending ?": "We are confirming your purchase with the retailer or waiting for the item's return period to over."
+						}
+						
+					],
+					"reward_note":"cashback amount will change If you cancel or return any items",
+					
+					"reward_details": [
+						{
+							"Type": "Sale",
+							"Store": "Amazon",
+							"Spent": "₹2500.00",
+							"Cashback": "₹50.00",
+							"Status ": "Pending",
+							"Trip Id": "1235445",
+							"Purchase on": "24-DEC-2022",
+							"Expected by": "25-DEC-2022",
+							"Redeemable": "Yes",
+							"Claim Submitted": "Yes"
+						}
+					],
+					"claim_details": [
+						{
+							"Issue reported": "24-DEC-2022",
+							"Issue resolved": "24-DEC-2022",
+							"Resolution ": " Cashback Approved"
+						}
+					]
+				}
+			
+		}
 			]
 		}
 	]

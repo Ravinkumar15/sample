@@ -11,18 +11,18 @@
 			"reward_amount": "₹100.00",
 			"iconimage_name": "earnings_icon_.png",
 			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
-			"earnings_details": [
+			"earnings_details": 
 				{
 					"Purchased on ": ": 01-Jan-2022",
 					"Earned on": ": 05-Jan-2022"
 				}
-			],
+			,
 			"show_details": [
 				{
 					"reward_desc": "Congrats, You earned ₹100.00 cashback on your amazon purchase",
 					"storeimagename":"amazonindia_small.png",
 					"storeimageurl":"https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
-					"reward_details": [
+					"reward_details": 
 						{
 							"Type": "Sale",
 							"Store": "Amazon",
@@ -35,14 +35,14 @@
 							"Redeemable": "Yes",
 							"Claim Submitted": "Yes"
 						}
-					],
-					"claim_details": [
+					,
+					"claim_details": 
 						{
 							"Issue reported": "24-DEC-2022",
 							"Issue resolved": "24-DEC-2022",
 							"Resolution ": " Cashback Approved"
 						}
-					]
+					
 				}
 			]
 		},
@@ -63,15 +63,15 @@
 					"reward_desc": "You earned ₹50.00 cashback on your amazon purchase",
 					"storeimagename":"amazonindia_small.png",
 					"storeimageurl":"https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
-					"reward_faq": [
+					"reward_faq": 
 						{
 							"Why is it pending ?": "We are confirming your purchase with the retailer or waiting for the item's return period to over."
 						}
 						
-					],
+					,
 					"reward_note":"cashback amount will change If you cancel or return any items",
 					
-					"reward_details": [
+					"reward_details": 
 						{
 							"Type": "Sale",
 							"Store": "Amazon",
@@ -84,14 +84,14 @@
 							"Redeemable": "Yes",
 							"Claim Submitted": "Yes"
 						}
-					],
-					"claim_details": [
+					,
+					"claim_details": 
 						{
 							"Issue reported": "24-DEC-2022",
 							"Issue resolved": "24-DEC-2022",
 							"Resolution ": " Cashback Approved"
 						}
-					]
+					
 				}
 			]
 		},
@@ -101,23 +101,23 @@
 			"reward_amount": "₹100.00",
 			"iconimage_name": "earnings_icon_.png",
 			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
-			"earnings_details": [
+			"earnings_details": 
 				{
 					"Purchased on ": ": 01-Jan-2022",
 					"Earned on": ": 05-Jan-2022"
 				}
-			],
+			,
 			"show_details": [
 				{
 					"reward_desc": "₹100.00",
 					"storeimagename":"amazonindia_small.png",
 					"storeimageurl":"https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
-					"reward_faq": [
+					"reward_faq": 
 						{
 							"Why is it cancelled ?": "Your order has been either returned or canceled"
 						}
-					],
-					"reward_details": [
+					,
+					"reward_details": 
 						{
 							"Type": "Sale",
 							"Store": "Amazon",
@@ -128,7 +128,7 @@
 							"Purchase on": "24-DEC-2022",
 							"Cancelled on": "29-DEC-2022"
 						}
-					]
+					
 				}
 			]
 		},
@@ -138,18 +138,18 @@
 			"reward_amount": "₹10.00",
 			"iconimage_name": "earnings_icon_.png",
 			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
-			"earnings_details": [
+			"earnings_details": 
 				{
 					"Recharged on ": ": 24-DEC-2022",
 					"Earned on": ": 24-DEC-2022"
 				}
-			],
+			,
 			"show_details": [
 				{
 					"reward_desc": "Congrats, You earned ₹10.00 cashback on your mobile recharge",
 					"storeimagename":"earnings_icon_.png",
 					"storeimageurl":"https://ravinkumar15.github.io/dev/assets/images/earnings/",
-					"reward_details": [
+					"reward_details": 
 						{
 							"Type": "Mobile Recharge",
 							"Number": "9790410222",
@@ -164,8 +164,8 @@
 							"Redeemable": "Yes",
 							"Claim Submitted": "No"
 						}
-					],
-					"claim_details": [
+					,
+					"claim_details": 
 						{
 							"Id": "123455",
 							"Talktime": "₹22.00",
@@ -173,7 +173,7 @@
 							"Cashback": "5%",
 							"Description": "Enjoy TRULY unlimited Local, STD & Roaming calls on any network, 2.5GB data per day, 100 National SMS/day for 28 days --Disney+ Hotstar Mobile for 3 months--Apollo 24--7 Circle:3 Months,at No Cost--Get Rs -- 100 cashback on FASTag--Free Hellotunes--Wynk Music"
 						}
-					]
+					
 				}
 			]
 		},
@@ -183,18 +183,18 @@
 			"reward_amount": "₹30.00",
 			"iconimage_name": "refer_icon.png",
 			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
-			"earnings_details": [
+			"earnings_details": 
 				{
 					"Refferred on ": ": 22-DEC-2022",
 					"Earned on": ": 24-DEC-2022"
 				}
-			],
+			,
 			"show_details": [
 				{
 					"reward_desc": "Congrats, You earned ₹30.00 reward on your referra",
 					"storeimagename":"refer_icon.png",
 					"storeimageurl":"https://ravinkumar15.github.io/dev/assets/images/earnings/",
-					"reward_details": [
+					"reward_details": 
 						{
 							"Type": "Referral",
 							"Email id": "abcdefgh123@gmail.com",
@@ -207,7 +207,7 @@
 							"Redeemable": "Yes",
 							"Claim Submitted": "No"
 						}
-					]
+					
 				}
 			]
 		},
@@ -217,23 +217,23 @@
 			"reward_amount": "₹30.00",
 			"iconimage_name": "refer_icon.png",
 			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
-			"earnings_details": [
+			"earnings_details": 
 				{
 					"Refferred on ": ": 22-DEC-2022",
 					"Earned on": ": 24-DEC-2022"
 				}
-			],
+			,
 			"show_details": [
 				{
 					"reward_desc": "You earned ₹30.00 reward on your referral",
 					"storeimagename":"refer_icon.png",
 					"storeimageurl":"https://ravinkumar15.github.io/dev/assets/images/earnings/",
-					"reward_faq": [
+					"reward_faq": 
 						{
 							"Why is it Pending?": "Your friend hasn�t made his first purchase through CazhOn yet."
 						}
-					],
-					"reward_details": [
+					,
+					"reward_details": 
 						{
 							"Type": "Referral",
 							"Email id": "abcdefgh123@gmail.com",
@@ -246,7 +246,7 @@
 							"Redeemable": "Yes",
 							"Claim Submitted": "No"
 						}
-					]
+					
 				}
 			]
 		},
@@ -256,22 +256,22 @@
 			"reward_amount": "₹250.00",
 			"iconimage_name": "earnings_icon_.png",
 			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
-			"earnings_details": [
+			"earnings_details": 
 				{
 					"Earned on": ": 24-DEC-2022"
 				}
-			],
+			,
 			"show_details": [
 				{
 					"reward_desc": "Congrats, You earned ₹250.00 reward on a giveaway contest",
 					"storeimagename":"amazonindia_small.png",
 					"storeimageurl":"https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
-					"reward_faq": [
+					"reward_faq": 
 						{
 							"How to use the coupon code ?": ""
 						}
-					],
-					"reward_details": [
+					,
+					"reward_details": 
 						{
 							"Type": "Giveaway",
 							"Status": "Pending",
@@ -284,8 +284,8 @@
 							"Redeemable": "No",
 							"Claim Submitted": "No"
 						}
-					],
-					"claim_details": [
+				,
+					"claim_details": 
 						{
 							"Id": "123455",
 							"Name": "Thunivu Movie Contest",
@@ -296,7 +296,7 @@
 							"Description": "Thunivu movie giveaway contest, 500 users will be selected if they complete 3 successful transactions in one week",
 						"Learn more about the contest here":"https://www.blog.cazhon.com"
 						}
-					]
+					
 				}
 			]
 		}

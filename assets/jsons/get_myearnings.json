@@ -234,45 +234,6 @@
 					]
 				}
 			
-		},
-		{
-			"store_name": "Referral Bonus",
-			"status": "Pending",
-			"reward_amount": "₹30.00",
-			"iconimage_name": "refer_icon.png",
-			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
-			"earnings_details": [
-				{
-					"Refferred on ": ": 22-DEC-2022",
-					"Earned on": ": 24-DEC-2022"
-				}
-			],
-			"show_details": 
-				{
-					"reward_desc": "You earned ₹30.00 reward on your referral",
-					"storeimagename":"refer_icon.png",
-					"storeimageurl":"https://ravinkumar15.github.io/dev/assets/images/earnings/",
-					"reward_faq": [
-						{
-							"Why is it Pending?": "Your friend hasn�t made his first purchase through CazhOn yet."
-						}
-					],
-					"reward_details": [
-						{
-							"Type": "Referral",
-							"Email id": "abcdefgh123@gmail.com",
-							"Mobile Number": "9345041329",
-							"Status": "Pending",
-							"Referral Id ": "1235445",
-							"Reward": "₹30.00",
-							"Joined on": "21-DEC-2023",
-							"Earned on": "-",
-							"Redeemable": "Yes",
-							"Claim Submitted": "No"
-						}
-					]
-				}
-			
 		}
 			]
 		}

@@ -239,7 +239,56 @@
 					]
 				}
 			
-		} 
+		} ,{
+			"store_name": "Thunivu Movie Contest",
+			"status": "Approved",
+			"reward_amount": "₹250.00",
+			"iconimage_name": "earnings_icon_.png",
+			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"earnings_details": [
+				{
+					"Earned on": ": 24-DEC-2022"
+				}
+			],
+			"show_details": 
+				{
+					"reward_desc": "Congrats, You earned ₹250.00 reward on a giveaway contest",
+					"storeimagename":"amazonindia_small.png",
+					"storeimageurl":"https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
+					"reward_faq": [
+						{
+							"How to use the coupon code ?": ""
+						}
+					],
+					"reward_details": [
+						{
+							"Type": "Giveaway",
+							"Status": "Pending",
+							"Giveaway Id ": "1235445",
+							"Coupon Code":" XXXXX1234555",
+							"Coupon Type": "Movie Coupon",
+							"Vendor ": "bookmyshow.com",
+							"Value ":" ₹250.00",
+							"Earned on": "11-JAN-2023",
+							"Redeemable": "No",
+							"Claim Submitted": "No"
+						}
+					],
+					"claim_details": [
+						{
+							"Id": "123455",
+							"Name": "Thunivu Movie Contest",
+							"Start Date": "25-DEC-2022",
+							"End Date": "08-JAN-2022",
+							"Result Date": "09-JAN-2022",
+							"Reward":" ₹100 Per Winner",
+							"Description": "Thunivu movie giveaway contest, 500 users will be selected if they complete 3 successful transactions in one week",
+						"Learn more about the contest here":"https://www.blog.cazhon.com"
+						}
+					]
+				}
+			
+		}
 			]
 		}
 	]

@@ -13,10 +13,7 @@
 					"reward_amount": "₹100.00",
 					"iconimage_name": "earnings_icon_.png",
 					"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
-					"earnings_details": {
-						"Purchased on ": ": 01-Jan-2022",
-						"Earned on": ": 05-Jan-2022"
-					},
+					"Purchased on ": "01-Jan-2022",
 					"show_details": [
 						{
 							"reward_desc": "Congrats, You earned ₹100.00 cashback on your amazon purchase",
@@ -48,12 +45,8 @@
 					"reward_amount": "₹50.00",
 					"iconimage_name": "earnings_icon_.png",
 					"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
-					"earnings_details": [
-						{
-							"Purchased on ": ": 01-Jan-2022",
-							"Earned on": ": 05-Jan-2022"
-						}
-					],
+					"Purchased on ": "01-Jan-2022",
+					
 					"show_details": {
 						"reward_desc": "You earned ₹50.00 cashback on your amazon purchase",
 						"storeimagename": "amazonindia_small.png",
@@ -93,12 +86,8 @@
 					"reward_amount": "₹100.00",
 					"iconimage_name": "earnings_icon_.png",
 					"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
-					"earnings_details": [
-						{
-							"Purchased on ": ": 01-Jan-2022",
-							"Earned on": ": 05-Jan-2022"
-						}
-					],
+					"Purchased on ": "01-Jan-2022",
+				
 					"show_details": {
 						"reward_desc": "₹100.00",
 						"storeimagename": "amazonindia_small.png",
@@ -128,12 +117,8 @@
 			"reward_amount": "₹10.00",
 			"iconimage_name": "earnings_icon_.png",
 			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
-			"earnings_details": [
-				{
-					"Recharged on ": ": 24-DEC-2022",
-					"Earned on": ": 24-DEC-2022"
-				}
-			],
+			"Recharged on ": "24-DEC-2022",
+			
 			"show_details": 
 				{
 					"reward_desc": "Congrats, You earned ₹10.00 cashback on your mobile recharge",
@@ -173,12 +158,8 @@
 			"reward_amount": "₹30.00",
 			"iconimage_name": "refer_icon.png",
 			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
-			"earnings_details": [
-				{
-					"Refferred on ": ": 22-DEC-2022",
-					"Earned on": ": 24-DEC-2022"
-				}
-			],
+			"Refferred on ": "22-DEC-2022",
+			
 			"show_details": 
 				{
 					"reward_desc": "Congrats, You earned ₹30.00 reward on your referra",
@@ -207,12 +188,8 @@
 			"reward_amount": "₹30.00",
 			"iconimage_name": "refer_icon.png",
 			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
-			"earnings_details": [
-				{
-					"Refferred on ": ": 22-DEC-2022",
-					"Earned on": ": 24-DEC-2022"
-				}
-			],
+				"Refferred on ": "22-DEC-2022",
+			
 			"show_details": 
 				{
 					"reward_desc": "You earned ₹30.00 reward on your referral",
@@ -245,11 +222,7 @@
 			"reward_amount": "₹250.00",
 			"iconimage_name": "earnings_icon_.png",
 			"iconimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
-			"earnings_details": [
-				{
-					"Earned on": ": 24-DEC-2022"
-				}
-			],
+				"Earned on": "24-DEC-2022",
 			"show_details": 
 				{
 					"reward_desc": "Congrats, You earned ₹250.00 reward on a giveaway contest",

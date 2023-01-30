@@ -1,8 +1,8 @@
 {
 	"trip_history": [
 		{
-			"storeimage_url": "https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
-			"storeimage_name": "amazonindia_small.png",
+			"storeimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
+			"storeimage_name": "amazon.png",
 			"store_name": "Amazon",
 			"cashback_amount": "₹153.00",
 			"status": "Approved",
@@ -19,8 +19,8 @@
 			]
 		},
 		{
-			"storeimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/app/assets/images/store/",
-			"storeimage_name": "flipkart_small.png",
+			"storeimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
+			"storeimage_name": "flipkart.png",
 			"store_name": "Flipkart",
 			"cashback_amount": "₹75.00",
 			"status": "Approved",
@@ -37,9 +37,9 @@
 			]
 		},
 		{
-			"storeimage_url": "https://d2so8w89vve7sn.cloudfront.net/app/assets/images/store/",
-			"storeimage_name": "pizzahut_Logo_Small.png",
-			"store_name": "Pizza Hut",
+			"storeimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
+			"storeimage_name": "ajio.png",
+			"store_name": "Ajio",
 			"cashback_amount": "₹25.00",
 			"status": "Pending",
 			"activated_on": "7 day(s) ago",
@@ -55,8 +55,8 @@
 			]
 		},
 		{
-			"storeimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/app/assets/images/store/",
-			"storeimage_name": "myntra_small.png",
+			"storeimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
+			"storeimage_name": "myntra.png",
 			"store_name": "Myntra",
 			"cashback_amount": "₹250.00",
 			"status": "Cancelled",
@@ -73,9 +73,9 @@
 			]
 		},
 		{
-			"storeimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/app/assets/images/store/",
-			"storeimage_name": "boat_Logo_Small.png",
-			"store_name": "Boat",
+			"storeimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
+			"storeimage_name": "dominos.png",
+			"store_name": "Dominos",
 			"cashback_amount": "₹82.28",
 			"status": "Approved",
 			"activated_on": "15 day(s) ago",

@@ -3,7 +3,7 @@
 		{
 			"store_name":"Amazon India",
 			"short_desc":"0% Rewards",
-			"long_desc":"",
+			"long_desc":"Upto 0% Rewards",
 			"category_type":"Apparel & Accessories",
 			"circledstoreimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
 			"circledstoreimage_name":"amazon.png",
@@ -15,7 +15,7 @@
 		{
 			"store_name":"Flipkart",
 			"short_desc":"6% Rewards",
-			"long_desc":"",
+			"long_desc":"Upto 6% Rewards",
 			"category_type":"Fashion & Lifestyle Categories",
 			"circledstoreimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
 			"circledstoreimage_name":"flipkart.png",
@@ -27,7 +27,7 @@
 		{
 			"store_name":"Mama Earth",
 			"short_desc":"18% Cashback",
-			"long_desc":"",
+			"long_desc":"Upto Rs.18 Cashback",
 			"category_type":"Health",
 			"circledstoreimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
 			"circledstoreimage_name":"mamaearth.png",
@@ -38,8 +38,8 @@
 		},
 		{
 			"store_name":"Myntra",
-			"short_desc":"7% Cashback",
-			"long_desc":"",
+			"short_desc":"Rs.7 Cashback",
+			"long_desc":"Upto Rs.7 Cashback",
 			"category_type":"Get 40%-70% offon Sale",
 			"circledstoreimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
 			"circledstoreimage_name":"myntra.png",
@@ -50,8 +50,8 @@
 		},
 		{
 			"store_name":"The Dermaco",
-			"short_desc":"20% Cashback",
-			"long_desc":"",
+			"short_desc":"Rs.20 Cashback",
+			"long_desc":"Upto Rs.20 Cashback",
 			"category_type":"Beauty",
 			"circledstoreimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
 			"circledstoreimage_name":"dermaco.png",
@@ -62,8 +62,8 @@
 		},
 		{
 			"store_name":"Ajio",
-			"short_desc":"8% Cashback",
-			"long_desc":"",
+			"short_desc":"Rs.88 Cashback",
+			"long_desc":"Upto Rs.88 Cashback",
 			"category_type":"Fashion & Lifestyle Categories",
 			"circledstoreimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
 			"circledstoreimage_name":"ajio.png",
@@ -74,8 +74,8 @@
 		},
 		{
 			"store_name":"Zivame",
-			"short_desc":"11% Cashback",
-			"long_desc":"",
+			"short_desc":"Rs.11 Cashback",
+			"long_desc":"Upto Rs.11 Cashback",
 			"category_type":"Fashion & Lifestyle Categories",
 			"circledstoreimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
 			"circledstoreimage_name":"zivame.png",
@@ -86,8 +86,8 @@
 		},
 		{
 			"store_name":"Plum Goodness",
-			"short_desc":"15% Cashback",
-			"long_desc":"",
+			"short_desc":"Rs.15 Cashback",
+			"long_desc":"Upto Rs.15 Cashback",
 			"category_type":"Health",
 			"circledstoreimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
 			"circledstoreimage_name":"plum.png",
@@ -98,8 +98,8 @@
 		},
 		{
 			"store_name":"Health & Glow",
-			"short_desc":"19% Cashback",
-			"long_desc":"",
+			"short_desc":"Rs.19 Cashback",
+			"long_desc":"Upto Rs.19 Cashback",
 			"category_type":"Health & Beauty",
 			"circledstoreimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
 			"circledstoreimage_name":"healthandglow.png",
@@ -110,8 +110,8 @@
 		},
 		{
 			"store_name":"Oziva",
-			"short_desc":"18% Cashback",
-			"long_desc":"",
+			"short_desc":"Rs.18 Cashback",
+			"long_desc":"Upto Rs.18 Cashback",
 			"category_type":"Finance",
 			"circledstoreimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
 			"circledstoreimage_name":"oziva.png",

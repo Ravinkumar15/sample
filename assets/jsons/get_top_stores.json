@@ -10,7 +10,7 @@
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"amazonwhitelogo.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
-			"productimage_name":"womenscollection.png"
+			"productimage_name":"amazon.jpg"
 		},
 		{
 			"store_name":"Flipkart",
@@ -22,7 +22,7 @@
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"flipkartwhitelogo.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
-			"productimage_name":"babycollections.png"
+			"productimage_name":"Flipkart.jpg"
 		},
 		{
 			"store_name":"Mama Earth",
@@ -58,7 +58,7 @@
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"dermacowhitelogo.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
-			"productimage_name":"babycollections.png"
+			"productimage_name":"Dermaco.jpg"
 		},
 		{
 			"store_name":"Ajio",
@@ -82,7 +82,7 @@
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"zivamewhiteLogo.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
-			"productimage_name":"medicines.png"
+			"productimage_name":"Zivame.jpg"
 		},
 		{
 			"store_name":"Plum Goodness",
@@ -94,7 +94,7 @@
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"plumgoodnesswhitelogo.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
-			"productimage_name":"medicines.png"
+			"productimage_name":"plum.jpg"
 		},
 		{
 			"store_name":"Health & Glow",
@@ -106,7 +106,7 @@
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"healthandglowwhitelogo.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
-			"productimage_name":"health.png"
+			"productimage_name":"h&g.jpg"
 		},
 		{
 			"store_name":"Oziva",
@@ -118,7 +118,7 @@
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"Oziva.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
-			"productimage_name":"babycollections.png"
+			"productimage_name":"oziva.jpg"
 		}
 	]
 }

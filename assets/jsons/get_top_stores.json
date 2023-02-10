@@ -10,7 +10,8 @@
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"amazonwhitelogo.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
-			"productimage_name":"amazon.jpg"
+			"productimage_name":"amazon.jpg",
+			"storemd_name":"flipkart.json"
 		},
 		{
 			"store_name":"Flipkart",
@@ -22,7 +23,8 @@
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"flipkartwhitelogo.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
-			"productimage_name":"Flipkart.jpg"
+			"productimage_name":"Flipkart.jpg",
+			"storemd_name":"flipkart.json"
 		},
 		{
 			"store_name":"Mama Earth",
@@ -34,7 +36,8 @@
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"mamaearthwhitelogo.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
-			"productimage_name":"MamaEarth.jpg"
+			"productimage_name":"MamaEarth.jpg",
+			"storemd_name":"flipkart.json"
 		},
 		{
 			"store_name":"Myntra",
@@ -46,7 +49,8 @@
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"myntrawhitelogo.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
-			"productimage_name":"Myntra.jpg"
+			"productimage_name":"Myntra.jpg",
+			"storemd_name":"flipkart.json"
 		},
 		{
 			"store_name":"The Dermaco",
@@ -58,7 +62,8 @@
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"dermacowhitelogo.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
-			"productimage_name":"TheDermaco.jpg"
+			"productimage_name":"TheDermaco.jpg",
+			"storemd_name":"flipkart.json"
 		},
 		{
 			"store_name":"Ajio",
@@ -70,7 +75,8 @@
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"ajiowhitelogo.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
-			"productimage_name":"Ajio.jpg"
+			"productimage_name":"Ajio.jpg",
+			"storemd_name":"flipkart.json"
 		},
 		{
 			"store_name":"Swiggy",
@@ -82,7 +88,8 @@
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"swiggywhitelogo.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
-			"productimage_name":"Swiggy.jpg"
+			"productimage_name":"Swiggy.jpg",
+			"storemd_name":"flipkart.json"
 		},
 		{
 			"store_name":"Plum Goodness",
@@ -94,7 +101,8 @@
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"plumgoodnesswhitelogo.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
-			"productimage_name":"PlumGoodness.jpg"
+			"productimage_name":"PlumGoodness.jpg",
+			"storemd_name":"flipkart.json"
 		},
 		{
 			"store_name":"Health & Glow",
@@ -106,7 +114,8 @@
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"healthandglowwhitelogo.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
-			"productimage_name":"h&g.jpg"
+			"productimage_name":"h&g.jpg",
+			"storemd_name":"flipkart.json"
 		},
 		{
 			"store_name":"Oziva",
@@ -118,7 +127,8 @@
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"Oziva.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
-			"productimage_name":"Oziva.jpg"
+			"productimage_name":"Oziva.jpg",
+			"storemd_name":"flipkart.json"
 		}
 	]
 }

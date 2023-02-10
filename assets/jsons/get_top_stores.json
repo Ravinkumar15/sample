@@ -9,7 +9,7 @@
 			"circledstoreimage_name":"amazon.png",
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"amazonwhitelogo.png",
-			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
+			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
 			"productimage_name":"amazon.jpg"
 		},
 		{
@@ -21,7 +21,7 @@
 			"circledstoreimage_name":"flipkart.png",
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"flipkartwhitelogo.png",
-			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
+			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
 			"productimage_name":"Flipkart.jpg"
 		},
 		{
@@ -33,8 +33,8 @@
 			"circledstoreimage_name":"mamaearth.png",
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"mamaearthwhitelogo.png",
-			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
-			"productimage_name":"medicines.png"
+			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
+			"productimage_name":"MamaEarth.jpg"
 		},
 		{
 			"store_name":"Myntra",
@@ -45,8 +45,8 @@
 			"circledstoreimage_name":"myntra.png",
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"myntrawhitelogo.png",
-			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
-			"productimage_name":"menscollection.png"
+			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
+			"productimage_name":"Myntra.jpg"
 		},
 		{
 			"store_name":"The Dermaco",
@@ -57,8 +57,8 @@
 			"circledstoreimage_name":"dermaco.png",
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"dermacowhitelogo.png",
-			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
-			"productimage_name":"Dermaco.jpg"
+			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
+			"productimage_name":"TheDermaco.jpg"
 		},
 		{
 			"store_name":"Ajio",
@@ -69,8 +69,8 @@
 			"circledstoreimage_name":"ajio.png",
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"ajiowhitelogo.png",
-			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
-			"productimage_name":"fashion.png"
+			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
+			"productimage_name":"Ajio.jpg"
 		},
 		{
 			"store_name":"Swiggy",
@@ -81,8 +81,8 @@
 			"circledstoreimage_name":"swiggy.png",
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"swiggywhitelogo.png",
-			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
-			"productimage_name":"food.png"
+			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
+			"productimage_name":"Swiggy.jpg"
 		},
 		{
 			"store_name":"Plum Goodness",
@@ -93,8 +93,8 @@
 			"circledstoreimage_name":"plum.png",
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"plumgoodnesswhitelogo.png",
-			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
-			"productimage_name":"plum.jpg"
+			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
+			"productimage_name":"PlumGoodness.jpg"
 		},
 		{
 			"store_name":"Health & Glow",
@@ -105,7 +105,7 @@
 			"circledstoreimage_name":"healthandglow.png",
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"healthandglowwhitelogo.png",
-			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
+			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
 			"productimage_name":"h&g.jpg"
 		},
 		{
@@ -117,8 +117,8 @@
 			"circledstoreimage_name":"oziva.png",
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storewhiteimage_name":"Oziva.png",
-			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
-			"productimage_name":"oziva.jpg"
+			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimagesnew/",
+			"productimage_name":"Oziva.jpg"
 		}
 	]
 }

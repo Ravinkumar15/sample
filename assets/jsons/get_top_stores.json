@@ -73,16 +73,16 @@
 			"productimage_name":"fashion.png"
 		},
 		{
-			"store_name":"Zivame",
+			"store_name":"Swiggy",
 			"short_desc":"Rs.11 Cashback",
 			"long_desc":"Upto Rs.11 Cashback",
-			"category_type":"Fashion & Lifestyle Categories",
+			"category_type":"Food",
 			"circledstoreimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
-			"circledstoreimage_name":"zivame.png",
+			"circledstoreimage_name":"swiggy.png",
 			"storewhiteimage_url":"https://ravinkumar15.github.io/dev/assets/images/white_logo/",
-			"storewhiteimage_name":"zivamewhiteLogo.png",
+			"storewhiteimage_name":"swiggywhitelogo.png",
 			"productimage_url":"https://ravinkumar15.github.io/dev/assets/images/productimages/",
-			"productimage_name":"Zivame.jpg"
+			"productimage_name":"food.png"
 		},
 		{
 			"store_name":"Plum Goodness",

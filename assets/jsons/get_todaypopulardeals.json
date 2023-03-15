@@ -1,64 +1,25 @@
 {
 	"populardeals": [
 		{
-			"store_mdid": "",
-			"category_type": "",
-			"category_desc": "Ajio final clearance sale",
-			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
-			"storeimage_name": "ajio_small.png",
-			"store_type": "fashion",
-			"cash_back_desc": "8%",
-			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/populardeals",
-			"productimage_name": "fashiongirls.png",
-			"usertype": "New & existing user"
+			
+			"bannerimage_url": "https://ravinkumar15.github.io/dev/assets/images/topbanners/",
+			"bannerimage_name": "FlipkartTopBanner.png",
+			"store_mdname": "flipkart"
+			
 		},
 		{
-			"store_mdid": "",
-			"category_type": "",
-			"category_desc": "Large appliance",
-			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
-			"storeimage_name": "amazon_small.png",
-			"store_type": "home appliances",
-			"cash_back_desc": "1%",
-			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/populardeals",
-			"productimage_name": "tables.png",
-			"usertype": "New & existing user"
+			 
+		"bannerimage_url": "https://ravinkumar15.github.io/dev/assets/images/topbanners/",
+			"bannerimage_name": "AmazonTopBanner.png",
+			"store_mdname": "amazon"
+			
 		},
 		{
-			"store_mdid": "",
-			"category_type": "",
-			"category_desc": "Buy colorful & trendy outfits",
-			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
-			"storeimage_name": "flipkart_small.png",
-			"store_type": "fashion",
-			"cash_back_desc": "19%",
-			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/populardeals",
-			"productimage_name": "beautygirls.png",
-			"usertype": "New & existing user"
-		},
-		{
-			"store_mdid": "",
-			"category_type": "",
-			"category_desc": "On order ₹30000 and above",
-			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
-			"storeimage_name": "tatacliq_small.png",
-			"store_type": "savings",
-			"cash_back_desc": "7%",
-			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/populardeals",
-			"productimage_name": "television.png",
-			"usertype": "New & existing user"
-		},
-		{
-			"store_mdid": "",
-			"category_type": "",
-			"category_desc": "Get your beauty journey",
-			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
-			"storeimage_name": "netmeds_small.png",
-			"store_type": "",
-			"cash_back_desc": "7%",
-			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/populardeals",
-			"productimage_name": "aloevera.png",
-			"usertype": "New user"
+			
+			"bannerimage_url": "https://ravinkumar15.github.io/dev/assets/images/topbanners/",
+			"bannerimage_name": "swiggytopbanner.jpg",
+			"store_mdname": "swiggy"
+			
 		}
 	]
 }

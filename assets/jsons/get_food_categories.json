@@ -1,73 +1,31 @@
 {
-	"backgroundimage_url": "https://ravinkumar15.github.io/dev/assets/images/food_categories/",
-	"backgroundimage_name": "homefoodbanner.png",
-	"max_cashback_offer": " Up to 60% off",
-	"max_cashback_desc": "order now to enjoy these benefits",
+	
 	"food_categories": [
 		{
-			"category_desc": "50% off",
-			"store_mdid": "",
-			"store_name": "Dominos",
-			"store_mdname": "",
+			
+			"store_mdname": "pizzahut",
 			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/white_logo/",
 			"storeimage_name": "pizzahutwhitelogo.png",
-			"store_type": "",
-			"cash_back_desc": "Up to ₹100",
-			"cash_back_amount": "₹ 22 Cashback",
+			"reward_amount": "₹ 22 Cashback",
 			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/food_categories/",
 			"productimage_name": "food_image1.jpg"
 		},
 		{
-			"category_desc": "70% off",
-			"store_mdid": "",
-			"store_name": "Swiggy",
-			"store_mdname": "",
+			
+			"store_mdname": "snackibile",
 			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/white_logo/",
-			"storeimage_name": "",
-			"store_type": "",
-			"cash_back_desc": "Up to ₹75",
-			"cash_back_amount": "",
+			"storeimage_name": "snackiblewhitelogo.png",
+			"reward_amount": "₹ 50 Cashback",
 			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/food_categories/",
 			"productimage_name": "food_image5.png"
 		},
 		{
-			"category_desc": "65% off",
-			"store_mdid": "",
-			"store_name": "Licious",
-			"store_mdname": "",
-			"storeimage_url": "",
-			"storeimage_name": "",
-			"store_type": "",
-			"cash_back_desc": "Up to ₹136",
-			"cash_back_amount": "",
+			"store_mdname": "dominos",
+			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/white_logo/",
+			"storeimage_name": "Dominoswhitelogo.png",
+			"reward_amount": "",
 			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/food_categories/",
 			"productimage_name": "food_image4.png"
-		},
-		{
-			"category_desc": "30% off",
-			"store_mdid": "",
-			"store_name": "Snackible",
-			"store_mdname": "",
-			"storeimage_url": "",
-			"storeimage_name": "",
-			"store_type": "",
-			"cash_back_desc": "Up to ₹320",
-			"cash_back_amount": "",
-			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/food_categories/",
-			"productimage_name": "food_image3.png"
-		},
-		{
-			"category_desc": "55% off",
-			"store_mdid": "",
-			"store_name": "Fresh to home",
-			"store_mdname": "",
-			"storeimage_url": "",
-			"storeimage_name": "",
-			"store_type": "",
-			"cash_back_desc": "Up to ₹150",
-			"cash_back_amount": "",
-			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/food_categories/",
-			"productimage_name": "food_image2.png"
 		}
 	]
 }

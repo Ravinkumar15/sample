@@ -1,59 +1,25 @@
 {
 	"deals_ofweek": [
 		{
-			"store_mdid": "",
-			"category_desc": "Small home appliance",
-			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
-			"storeimage_name": "flipkart_small.png",
-			"store_type": "kitchen",
-			"cash_back_desc": "23%",
-			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/deals_of_week/",
-			"productimage_name": "homeappliances.png",
-			"usertype": "New & existing user"
+			
+			"bannerimage_url": "https://ravinkumar15.github.io/dev/assets/images/topbanners/",
+			"bannerimage_name": "FlipkartTopBanner.png",
+			"store_mdname": "flipkart"
+			
 		},
 		{
-			"store_mdid": "",
-			"category_desc": "Get your favourite food",
-			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
-			"storeimage_name": "swigycolor_small.png",
-			"store_type": "food",
-			"cash_back_desc": "4%",
-			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/deals_of_week/",
-			"productimage_name": "categoriesfood.png",
-			"usertype": "New & existing user"
+			 
+		"bannerimage_url": "https://ravinkumar15.github.io/dev/assets/images/topbanners/",
+			"bannerimage_name": "AmazonTopBanner.png",
+			"store_mdname": "amazon"
+			
 		},
 		{
-			"store_mdid": "",
-			"category_desc": "Fashion & lifestyle categories",
-			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
-			"storeimage_name": "ajio_small.png",
-			"store_type": "fashion",
-			"cash_back_desc": "11%",
-			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/deals_of_week/",
-			"productimage_name": "Fashiongirl.png",
-			"usertype": "New user"
-		},
-		{
-			"store_mdid": "",
-			"category_desc": "Delightful dominos pizzas",
-			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
-			"storeimage_name": "dominos_small.png",
-			"store_type": "food",
-			"cash_back_desc": "22%",
-			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/deals_of_week/",
-			"productimage_name": "Pizza.png",
-			"usertype": "New & existing user"
-		},
-		{
-			"store_mdid": "",
-			"category_desc": "On successful sale",
-			"storeimage_url": "https://ravinkumar15.github.io/dev/assets/images/Logo/",
-			"storeimage_name": "myntra_small.png",
-			"store_type": "fashion",
-			"cash_back_desc": "6%",
-			"productimage_url": "https://ravinkumar15.github.io/dev/assets/images/deals_of_week/",
-			"productimage_name": "Fashionboys.png",
-			"usertype": "New user"
+			
+			"bannerimage_url": "https://ravinkumar15.github.io/dev/assets/images/topbanners/",
+			"bannerimage_name": "swiggytopbanner.jpg",
+			"store_mdname": "swiggy"
+			
 		}
 	]
 }

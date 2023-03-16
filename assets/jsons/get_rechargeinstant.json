@@ -1,0 +1,24 @@
+{
+	"rewards":[
+		{
+			"operatorimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
+			"operatorimage_name":"airtel.png",
+			"reward_rate":"3%"
+		},
+		{
+			"operatorimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
+			"operatorimage_name":"jio.jpg",
+			"reward_rate":"5%"
+		},
+		{
+			"operatorimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
+			"operatorimage_name":"idea.png",
+			"reward_rate":"4%"
+		},
+		{
+			"operatorimage_url":"https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
+			"operatorimage_name":"",
+			"reward_rate":"6%"
+		}
+	]
+}

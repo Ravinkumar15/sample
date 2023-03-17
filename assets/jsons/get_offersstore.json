@@ -6,6 +6,8 @@
           "Store_name": "Amazon",
           "store_mdid": "0xDE5B499FB4CA0AD1656BD410F189818C",
           "section_name": "offers",
+          "circledstoreimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
+          "circledstoreimage_name": "amazon.png",
           "categories": [
             {
               "short_desc": "kitchen Appliances",
@@ -13,8 +15,6 @@
               "reward_method": "Rewards",
               "productimage_url": "https://ravinkumar15.github.io/dev/assets/images/productimages/",
               "productimage_name": "",
-              "circledstoreimage_url": "",
-              "circledstoreimage_name": "",
               "show_details": [
                 {
                   "campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
@@ -48,8 +48,6 @@
               "reward_method": "Rewards",
               "productimage_url": "https://ravinkumar15.github.io/dev/assets/images/productimages/",
               "productimage_name": "",
-              "circledstoreimage_url": "",
-              "circledstoreimage_name": "",
               "show_details": [
                 {
                   "campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
@@ -83,8 +81,6 @@
               "reward_method": "Rewards",
               "productimage_url": "https://ravinkumar15.github.io/dev/assets/images/productimages/",
               "productimage_name": "",
-              "circledstoreimage_url": "",
-              "circledstoreimage_name": "",
               "show_details": [
                 {
                   "campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
@@ -118,8 +114,6 @@
               "reward_method": "Rewards",
               "productimage_url": "https://ravinkumar15.github.io/dev/assets/images/productimages/",
               "productimage_name": "",
-              "circledstoreimage_url": "",
-              "circledstoreimage_name": "",
               "show_details": [
                 {
                   "campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
@@ -153,8 +147,6 @@
               "reward_method": "Rewards",
               "productimage_url": "https://ravinkumar15.github.io/dev/assets/images/productimages/",
               "productimage_name": "",
-              "circledstoreimage_url": "",
-              "circledstoreimage_name": "",
               "show_details": [
                 {
                   "campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
@@ -190,6 +182,8 @@
           "Store_name": "Flipkart",
           "store_mdid": "0xDE5B499FB4CA0AD1656BD410F189818C",
           "section_name": "offers",
+          "circledstoreimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
+          "circledstoreimage_name": "",
           "categories": [
             {
               "short_desc": "Small Home Appliances",
@@ -197,8 +191,6 @@
               "reward_method": "Rewards",
               "productimage_url": "https://ravinkumar15.github.io/dev/assets/images/productimages/",
               "productimage_name": "",
-              "circledstoreimage_url": "",
-              "circledstoreimage_name": "",
               "show_details": [
                 {
                   "campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
@@ -232,8 +224,6 @@
               "reward_method": "Rewards",
               "productimage_url": "https://ravinkumar15.github.io/dev/assets/images/productimages/",
               "productimage_name": "",
-              "circledstoreimage_url": "",
-              "circledstoreimage_name": "",
               "show_details": [
                 {
                   "campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
@@ -267,8 +257,6 @@
               "reward_method": "Rewards",
               "productimage_url": "https://ravinkumar15.github.io/dev/assets/images/productimages/",
               "productimage_name": "",
-              "circledstoreimage_url": "",
-              "circledstoreimage_name": "",
               "show_details": [
                 {
                   "campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
@@ -302,8 +290,6 @@
               "reward_method": "Rewards",
               "productimage_url": "https://ravinkumar15.github.io/dev/assets/images/productimages/",
               "productimage_name": "",
-              "circledstoreimage_url": "",
-              "circledstoreimage_name": "",
               "show_details": [
                 {
                   "campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
@@ -337,8 +323,6 @@
               "reward_method": "Rewards",
               "productimage_url": "https://ravinkumar15.github.io/dev/assets/images/productimages/",
               "productimage_name": "",
-              "circledstoreimage_url": "",
-              "circledstoreimage_name": "",
               "show_details": [
                 {
                   "campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
@@ -374,6 +358,8 @@
           "Store_name": "Myntra",
           "store_mdid": "0xDE5B499FB4CA0AD1656BD410F189818C",
           "section_name": "offers",
+          "circledstoreimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",
+          "circledstoreimage_name": "",
           "categories": [
             {
               "short_desc": "Myntra Women Fashion",
@@ -381,8 +367,6 @@
               "reward_method": "cashback",
               "productimage_url": "https://ravinkumar15.github.io/dev/assets/images/productimages/",
               "productimage_name": "",
-              "circledstoreimage_url": "",
-              "circledstoreimage_name": "",
               "show_details": [
                 {
                   "campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
@@ -416,8 +400,6 @@
               "reward_method": "cashback",
               "productimage_url": "https://ravinkumar15.github.io/dev/assets/images/productimages/",
               "productimage_name": "",
-              "circledstoreimage_url": "",
-              "circledstoreimage_name": "",
               "show_details": [
                 {
                   "campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
@@ -451,8 +433,6 @@
               "reward_method": "cashback",
               "productimage_url": "https://ravinkumar15.github.io/dev/assets/images/productimages/",
               "productimage_name": "",
-              "circledstoreimage_url": "",
-              "circledstoreimage_name": "",
               "show_details": [
                 {
                   "campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",

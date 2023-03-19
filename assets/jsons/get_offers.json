@@ -1,7 +1,7 @@
 {
   "offers": [
     {
-      "Store_name": "Amazon",
+      "store_name": "Amazon",
       "store_mdid": "0xDE5B499FB4CA0AD1656BD410F189818C",
       "section_name": "offers",
       "circledstoreimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings_logo/",

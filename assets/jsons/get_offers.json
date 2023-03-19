@@ -25,8 +25,10 @@
                   "Auto cash": "Yes"
                 }
               ],
-              "offer_details": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters.",
-              "faq": [
+              "offer_details":[{ "Offer details": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
+              }],
+              "faq":[{
+				    "Frequently Asked questions": [
                 {
                   "How can I redeem this offer ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
                 },
@@ -37,6 +39,8 @@
                   "How do I need to make this purchase to get cashback ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
                 }
               ]
+			  }]
+           
             }
           ]
         },
@@ -46,7 +50,7 @@
           "reward_method": "Rewards",
           "productimage_url": "https://ravinkumar15.github.io/dev/assets/images/productimages/",
           "productimage_name": "furniture.png",
-          "show_details": [
+           "show_details": [
             {
               "campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
               "dealtype": "campaign",
@@ -58,8 +62,10 @@
                   "Auto cash": "Yes"
                 }
               ],
-              "offer_details": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters.",
-              "faq": [
+              "offer_details":[{ "Offer details": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
+              }],
+              "faq":[{
+				    "Frequently Asked questions": [
                 {
                   "How can I redeem this offer ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
                 },
@@ -70,6 +76,8 @@
                   "How do I need to make this purchase to get cashback ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
                 }
               ]
+			  }]
+           
             }
           ]
         },
@@ -79,7 +87,7 @@
           "reward_method": "Rewards",
           "productimage_url": "https://ravinkumar15.github.io/dev/assets/images/productimages/",
           "productimage_name": "smallhomeappliances.png",
-          "show_details": [
+           "show_details": [
             {
               "campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
               "dealtype": "campaign",
@@ -91,8 +99,10 @@
                   "Auto cash": "Yes"
                 }
               ],
-              "offer_details": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters.",
-              "faq": [
+              "offer_details":[{ "Offer details": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
+              }],
+              "faq":[{
+				    "Frequently Asked questions": [
                 {
                   "How can I redeem this offer ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
                 },
@@ -103,6 +113,8 @@
                   "How do I need to make this purchase to get cashback ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
                 }
               ]
+			  }]
+           
             }
           ]
         },
@@ -112,7 +124,7 @@
           "reward_method": "Rewards",
           "productimage_url": "https://ravinkumar15.github.io/dev/assets/images/productimages/",
           "productimage_name": "largeappliances.png",
-          "show_details": [
+           "show_details": [
             {
               "campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
               "dealtype": "campaign",
@@ -124,8 +136,10 @@
                   "Auto cash": "Yes"
                 }
               ],
-              "offer_details": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters.",
-              "faq": [
+              "offer_details":[{ "Offer details": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
+              }],
+              "faq":[{
+				    "Frequently Asked questions": [
                 {
                   "How can I redeem this offer ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
                 },
@@ -136,6 +150,8 @@
                   "How do I need to make this purchase to get cashback ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
                 }
               ]
+			  }]
+           
             }
           ]
         },
@@ -145,7 +161,7 @@
           "reward_method": "Rewards",
           "productimage_url": "https://ravinkumar15.github.io/dev/assets/images/productimages/",
           "productimage_name": "books.png",
-          "show_details": [
+           "show_details": [
             {
               "campaign_guid": "12a0474a-7b5e-4fc4-9e6f-f7c883fd39ca",
               "dealtype": "campaign",
@@ -157,8 +173,10 @@
                   "Auto cash": "Yes"
                 }
               ],
-              "offer_details": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters.",
-              "faq": [
+              "offer_details":[{ "Offer details": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
+              }],
+              "faq":[{
+				    "Frequently Asked questions": [
                 {
                   "How can I redeem this offer ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
                 },
@@ -169,6 +187,8 @@
                   "How do I need to make this purchase to get cashback ?": "McKeeman Form is a notation for expressing grammars. It was proposed by Bill McKeeman of Dartmouth College. It is a simplified Backus-Naur Form with significant whitespace and minimal use of metacharacters."
                 }
               ]
+			  }]
+           
             }
           ]
         }

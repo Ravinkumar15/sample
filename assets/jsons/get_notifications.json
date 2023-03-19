@@ -1,60 +1,68 @@
 {
 	"notiifications": [
 		{
-			"notification_title": "CazhOn Days Deal",
+			"notification_title": "Offers",
 			"notification_message": "This 24-hour deal is coming in Hot! Browse our Deal of the Day.",
-			"notificationimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
-			"notificationimage_name": "wow_wednesday.jpg",
-			"unread_msg_count":"7"
+			"notificationimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"notificationimage_name": "earnings_icon_.png",
+			"unread_msg_count":"7",
+			"activated_on":"3 days ago-09:42 PM"
 		},
 		{
 			"notification_title": "CazhOn Giveaway",
 			"notification_message": "Congrats! You won a giveway. Please contact our Team at contact@cazhon.com",
-			"notificationimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
-			"notificationimage_name": "cazhon_giveaway.jpg",
-			"unread_msg_count":"7"
+			"notificationimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"notificationimage_name": "earnings_icon_.png",
+			"unread_msg_count":"0",
+			"activated_on":"5 days ago-12:02 AM"
 		},
 		{
-			"notification_title": "Super Cool Cashback",
+			"notification_title": "Cashback",
 			"notification_message": "Congrats! You won super cool cashback on the shopping trip you made. Please visit myearnings/shopping trip",
-			"notificationimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
-			"notificationimage_name": "cashback_approved.jpg",
-			"unread_msg_count":"7"
+			"notificationimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"notificationimage_name": "earnings_icon_.png",
+			"unread_msg_count":"2",
+			"activated_on":"7 days ago-11:12 AM"
 		},
 		{
-			"notification_title": "Super Cool Cashback",
+			"notification_title": "Cashback",
 			"notification_message": "Congrats! You won super cool cashback on the shopping trip you made. Please visit myearnings/shopping trip",
-			"notificationimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
+			"notificationimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
 			"notificationimage_name": "cashback_approved.jpg",
-			"unread_msg_count":"7"
+			"unread_msg_count":"1",
+			"activated_on":"12 days ago-03:45 PM"
 		},
 		{
-			"notification_title": "CazhOn Giveaway",
+			"notification_title": "Cashback",
 			"notification_message": "Congrats! You won a giveway. Please contact our Team at contact@cazhon.com",
-			"notificationimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
-			"notificationimage_name": "cazhon_giveaway.jpg",
-			"unread_msg_count":"7"
+			"notificationimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"notificationimage_name": "earnings_icon_.png",
+			"unread_msg_count":"0",
+			"activated_on":"5 day ago-08:22 PM"
 		},
 		{
-			"notification_title": "Super Cool Cashback",
+			"notification_title": "Cashback",
 			"notification_message": "Congrats! You won super cool cashback on the shopping trip you made. Please visit myearnings/shopping trip",
-			"notificationimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
-			"notificationimage_name": "cashback_approved.jpg",
-			"unread_msg_count":"7"
+			"notificationimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"notificationimage_name": "earnings_icon_.png",
+			"unread_msg_count":"12",
+			"activated_on":"5 day ago-09:42 PM"
 		},
 		{
 			"notification_title": "Referral Bonus",
 			"notification_message": "Hurray!! You earned Referral Cashback by referring your Friend",
-			"notificationimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
-			"notificationimage_name": "referral_approved.jpg",
-			"unread_msg_count":"7"
+			"notificationimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"notificationimage_name": "earnings_icon_.png",
+			"unread_msg_count":"3",
+			"activated_on":"5 day ago-09:42 PM"
 		},
 		{
 			"notification_title": "Welcome to CazhOn",
 			"notification_message": "We are happy to have you as our valuable member of the CazhOn Family",
-			"notificationimage_url": "https://s3.ap-south-1.amazonaws.com/www.cazhon.com/assets/images/notification/",
-			"notificationimage_name": "welcome_bonus.jpg",
-			"unread_msg_count":"7"
+			"notificationimage_url": "https://ravinkumar15.github.io/dev/assets/images/earnings/",
+			"notificationimage_name": "earnings_icon_.png",
+			"unread_msg_count":"1",
+			"activated_on":"5 day ago-09:55 AM"
 		}
 	]
 }

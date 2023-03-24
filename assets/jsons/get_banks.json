@@ -59,9 +59,8 @@
 					"bankimage_url": "https://ravinkumar15.github.io/dev/assets/images/banks/",
 					"bankimage_name": "icici1.png"
 				}
-			]
-		},
-		{
+			],
+		
 			"all_banks": [
 				{
 					"bank_name": "State Bank Of India",

@@ -58,6 +58,26 @@
 					"bank_name": "ICICI Bank",
 					"bankimage_url": "https://ravinkumar15.github.io/dev/assets/images/banks/",
 					"bankimage_name": "icici1.png"
+				},
+				{
+					"bank_name": "PNB Bank",
+					"bankimage_url": "https://ravinkumar15.github.io/dev/assets/images/banks/",
+					"bankimage_name": "PNB_Bank.png"
+				},
+				{
+					"bank_name": "Indian Bank",
+					"bankimage_url": "https://ravinkumar15.github.io/dev/assets/images/banks/",
+					"bankimage_name": "Indian_Bank.png"
+				},
+				{
+					"bank_name": "Canara Bank",
+					"bankimage_url": "https://ravinkumar15.github.io/dev/assets/images/banks/",
+					"bankimage_name": "Canara_Bank.png"
+				},
+				{
+					"bank_name": "BOI Bank",
+					"bankimage_url": "https://ravinkumar15.github.io/dev/assets/images/banks/",
+					"bankimage_name": "Bank_of_India.png"
 				}
 			],
 		
